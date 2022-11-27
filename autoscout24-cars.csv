@@ -1,0 +1,401 @@
+,name,model,price,kilometers,transmission,manufactured_date,fuel_type,power,seller
+0,Abarth ,695C,€ 30.950,0 km,Manueel,09/2022,Benzine,121 kW (165 PK),Autobedrijf
+1,Mercedes-Benz ,S 580,€ 158.000,10 km,Automatisch,,Elektrisch/Benzine,380 kW (517 PK),Autobedrijf
+2,Porsche ,911,€ 249.950,6.000 km,Automatisch,01/2022,Benzine,353 kW (480 PK),Autobedrijf
+3,Porsche ,Cayman,€ 102.990,9.155 km,Manueel,03/2020,Benzine,309 kW (420 PK),Autobedrijf
+4,Ford ,Mustang,€ 33.990,49.000 km,Manueel,05/2019,Benzine,233 kW (317 PK),Autobedrijf
+5,BMW ,640,€ 24.000,116.753 km,Automatisch,10/2013,Benzine,235 kW (320 PK),Autobedrijf
+6,Mercedes-Benz ,AMG GT,€ 94.750,71.189 km,Automatisch,01/2019,Benzine,270 kW (367 PK),Autobedrijf
+7,BMW ,M5,€ 59.990,121.730 km,Automatisch,08/2018,Benzine,441 kW (600 PK),Autobedrijf
+8,Hyundai ,TUCSON,€ 32.700,7.627 km,Automatisch,11/2021,Elektrisch/Benzine,,Autobedrijf
+9,Porsche ,Boxster,€ 30.900,135.900 km,Automatisch,08/2006,Benzine,217 kW (295 PK),Autobedrijf
+10,Tesla ,Model Y,€ 66.800,17.500 km,Automatisch,11/2021,Elektrisch,378 kW (514 PK),Autobedrijf
+11,Porsche ,718,€ 102.990,9.155 km,Manueel,03/2020,Benzine,309 kW (420 PK),Autobedrijf
+12,Jaguar ,XF,,282.000 km,Automatisch,06/2013,Benzine,250 kW (340 PK),Autobedrijf
+13,Audi ,R8,€ 69.950,53.981 km,Automatisch,09/2007,Benzine,309 kW (420 PK),Autobedrijf
+14,BMW ,225,€ 20.300,120.434 km,Automatisch,07/2016,Elektrisch/Benzine,165 kW (224 PK),Autobedrijf
+15,Bentley ,Continental,€ 289.990,3.000 km,Automatisch,06/2022,Benzine,405 kW (551 PK),Autobedrijf
+16,Tesla ,Model Y,€ 59.950,22.412 km,Automatisch,11/2021,Elektrisch,378 kW (514 PK),Autobedrijf
+17,Porsche ,Boxster,€ 26.600,93.651 km,Manueel,01/2007,Benzine,155 kW (211 PK),Autobedrijf
+18,Mercedes-Benz ,SL 55 AMG,€ 195.000,10 km,Automatisch,,Benzine,350 kW (476 PK),Autobedrijf
+19,Lexus ,IS 300,€ 27.450,43.754 km,Automatisch,03/2018,Elektrisch/Benzine,133 kW (181 PK),Autobedrijf
+20,Fiat ,500X,€ 14.990,89.000 km,Manueel,05/2015,Diesel,85 kW (116 PK),Autobedrijf
+21,Jaguar ,F-Type,€ 69.400,15 km,Automatisch,01/2022,Benzine,221 kW (300 PK),Autobedrijf
+22,Volkswagen ,Passat Variant,€ 10.490,199.989 km,Manueel,04/2015,Diesel,110 kW (150 PK),Autobedrijf
+23,JAC ,e-S2,€ 28.990,,Automatisch,,Elektrisch,85 kW (116 PK),Autobedrijf
+24,MINI ,Cooper Countryman,€ 24.200,115.767 km,Automatisch,01/2019,Elektrisch/Benzine,165 kW (224 PK),Autobedrijf
+25,Mercedes-Benz ,S 450,€ 66.000,126.000 km,Automatisch,12/2018,Elektrisch/Benzine,270 kW (367 PK),Autobedrijf
+26,BMW ,425,€ 23.500,121.538 km,Automatisch,06/2015,Diesel,160 kW (218 PK),Autobedrijf
+27,BMW ,420,€ 18.900,129.900 km,Manueel,09/2016,Benzine,135 kW (184 PK),Autobedrijf
+28,Jaguar ,F-Type,€ 112.900,0 km,Automatisch,01/2022,Benzine,423 kW (575 PK),Autobedrijf
+29,Porsche ,911,€ 97.990,79.594 km,Automatisch,07/2014,Benzine,383 kW (521 PK),Autobedrijf
+30,Audi ,RS6,€ 124.950,39.980 km,Automatisch,05/2021,Benzine,441 kW (600 PK),Autobedrijf
+31,Mercedes-Benz ,S 560,€ 99.995,148.679 km,Automatisch,05/2018,Benzine,345 kW (469 PK),Autobedrijf
+32,Alpine ,A110,€ 65.950,1.739 km,Automatisch,08/2021,Benzine,185 kW (252 PK),Autobedrijf
+33,BMW ,M3,€ 93.750,3.500 km,Automatisch,03/2021,Benzine,375 kW (510 PK),Autobedrijf
+34,BMW ,M3,€ 38.500,149.550 km,Manueel,03/2002,Benzine,252 kW (343 PK),Autobedrijf
+35,BMW ,420,€ 24.900,113.000 km,Automatisch,01/2015,Diesel,135 kW (184 PK),Autobedrijf
+36,Alfa Romeo ,Giulia,€ 34.490,25.000 km,Automatisch,01/2021,Benzine,148 kW (201 PK),Autobedrijf
+37,Porsche ,911,€ 169.950,21.528 km,Manueel,11/2017,Benzine,368 kW (500 PK),Autobedrijf
+38,Porsche ,911,€ 149.950,41.015 km,Automatisch,02/2019,Benzine,331 kW (450 PK),Autobedrijf
+39,Audi ,TT,€ 30.990,50.350 km,Automatisch,10/2017,Benzine,169 kW (230 PK),Autobedrijf
+40,Lamborghini ,Aventador,€ 219.950,41.000 km,Automatisch,04/2013,Benzine,515 kW (700 PK),Autobedrijf
+41,MG ,Marvel R,€ 53.867,0 km,Automatisch,06/2022,Elektrisch,222 kW (302 PK),Autobedrijf
+42,Audi ,RS6,€ 74.900,89.000 km,Automatisch,01/2016,Benzine,412 kW (560 PK),Autobedrijf
+43,BMW ,M3,€ 95.000,7.500 km,Automatisch,11/2021,Benzine,375 kW (510 PK),Autobedrijf
+44,Ford ,Focus,€ 30.900,61.500 km,Manueel,02/2017,Benzine,257 kW (349 PK),Autobedrijf
+45,BMW ,X1,€ 7.990,189.135 km,Manueel,03/2012,Diesel,100 kW (136 PK),Autobedrijf
+46,Chevrolet ,Camaro,€ 89.950,1.136 km,Manueel,02/1969,Benzine,257 kW (349 PK),Autobedrijf
+47,Mercedes-Benz ,GLE 63 AMG,€ 78.000,79.000 km,Automatisch,07/2018,Benzine,430 kW (585 PK),Autobedrijf
+48,BMW ,520,€ 22.990,37.735 km,Automatisch,10/2014,Diesel,135 kW (184 PK),Autobedrijf
+49,Land Rover ,Range Rover Sport,€ 39.900,155.000 km,Automatisch,10/2016,Diesel,250 kW (340 PK),Autobedrijf
+50,Volkswagen ,Golf GTE,€ 21.200,114.370 km,Automatisch,10/2017,Elektrisch/Benzine,150 kW (204 PK),Autobedrijf
+51,BMW ,225,€ 20.400,125.108 km,Automatisch,12/2017,Elektrisch/Benzine,165 kW (224 PK),Autobedrijf
+52,Mercedes-Benz ,E 63 AMG,€ 77.900,50.000 km,Automatisch,02/2019,Benzine,420 kW (571 PK),Autobedrijf
+53,Bentley ,Continental,€ 129.990,53.747 km,Automatisch,04/2017,Benzine,372 kW (506 PK),Autobedrijf
+54,Audi ,A3,€ 10.999,201.500 km,Manueel,03/2015,Benzine,81 kW (110 PK),Autobedrijf
+55,Audi ,R8,€ 79.950,85.446 km,Manueel,06/2011,Benzine,316 kW (430 PK),Autobedrijf
+56,BMW ,125,€ 20.200,85.190 km,Manueel,08/2016,Benzine,160 kW (218 PK),Autobedrijf
+57,Audi ,A4,€ 13.950,140.217 km,Manueel,04/2015,Diesel,100 kW (136 PK),Autobedrijf
+58,Renault ,Trafic,€ 39.900,7.000 km,Manueel,06/2022,Diesel,110 kW (150 PK),Autobedrijf
+59,Bentley ,Flying Spur,€ 114.990,68.500 km,Automatisch,06/2018,Benzine,388 kW (528 PK),Autobedrijf
+60,Porsche ,718,€ 117.718,974 km,Manueel,10/2020,Benzine,309 kW (420 PK),Autobedrijf
+61,BMW ,M2,€ 62.000,8.351 km,Automatisch,03/2020,Benzine,302 kW (411 PK),Autobedrijf
+62,Porsche ,991,€ 184.950,18.000 km,Manueel,03/2018,Benzine,368 kW (500 PK),Autobedrijf
+63,Fiat ,500 Abarth,€ 15.990,31.022 km,Manueel,05/2016,Benzine,132 kW (179 PK),Autobedrijf
+64,BMW ,640,€ 33.990,59.711 km,Automatisch,07/2013,Diesel,230 kW (313 PK),Autobedrijf
+65,Audi ,RS4,€ 76.990,38.000 km,Automatisch,11/2020,Benzine,331 kW (450 PK),Autobedrijf
+66,BMW ,i4,€ 103.900,6.001 km,Automatisch,06/2022,Elektrisch,400 kW (544 PK),Autobedrijf
+67,Mercedes-Benz ,AMG GT,€ 94.995,34.700 km,Automatisch,05/2020,Benzine,270 kW (367 PK),Autobedrijf
+68,Land Rover ,Defender,€ 99.950,7.800 km,Automatisch,08/2022,Benzine,294 kW (400 PK),Autobedrijf
+69,BMW ,530,€ 37.950,108.047 km,Automatisch,01/2020,Elektrisch/Benzine,135 kW (184 PK),Autobedrijf
+70,Audi ,A3,€ 12.950,135.000 km,Manueel,08/2011,Benzine,118 kW (160 PK),Autobedrijf
+71,BMW ,520,€ 11.500,154.867 km,Manueel,11/2010,Diesel,120 kW (163 PK),Autobedrijf
+72,Jeep ,Wrangler,€ 24.995,122.000 km,Manueel,01/2011,Diesel,147 kW (200 PK),Autobedrijf
+73,Porsche ,Panamera,€ 35.990,104.345 km,Automatisch,07/2011,Diesel,184 kW (250 PK),Autobedrijf
+74,Volkswagen ,Golf Sportsvan,€ 18.950,61.507 km,Manueel,12/2017,Diesel,110 kW (150 PK),Autobedrijf
+75,MINI ,One,€ 13.990,63.492 km,Manueel,02/2018,Benzine,55 kW (75 PK),Autobedrijf
+76,Audi ,TT,€ 27.200,74.224 km,Manueel,08/2016,Diesel,135 kW (184 PK),Autobedrijf
+77,Bentley ,Continental,€ 75.399,94.620 km,Automatisch,03/2013,Benzine,373 kW (507 PK),Autobedrijf
+78,Porsche ,911,€ 154.950,17.262 km,Automatisch,01/2021,Benzine,331 kW (450 PK),Autobedrijf
+79,Ford ,Focus,€ 21.890,27.219 km,Manueel,11/2017,Benzine,184 kW (250 PK),Autobedrijf
+80,Hyundai ,KONA,€ 18.790,56.685 km,Automatisch,04/2019,Diesel,100 kW (136 PK),Autobedrijf
+81,Audi ,TT,€ 25.900,47.260 km,Manueel,10/2015,Diesel,135 kW (184 PK),Autobedrijf
+82,BMW ,730,€ 40.950,109.468 km,Automatisch,01/2018,Diesel,195 kW (265 PK),Autobedrijf
+83,Porsche ,911,€ 95.000,16.000 km,Automatisch,01/2016,Benzine,257 kW (349 PK),Autobedrijf
+84,BMW ,X5,€ 34.750,184.465 km,Automatisch,03/2017,Elektrisch/Benzine,180 kW (245 PK),Autobedrijf
+85,Lexus ,IS F,€ 32.999,72.000 km,Automatisch,05/2008,Benzine,309 kW (420 PK),Autobedrijf
+86,Mercedes-Benz ,GLE 500,€ 49.995,36.560 km,Automatisch,06/2017,Elektrisch/Benzine,245 kW (333 PK),Autobedrijf
+87,Audi ,TT RS,€ 61.900,15.321 km,Automatisch,01/2017,Benzine,294 kW (400 PK),Autobedrijf
+88,BMW ,M3,€ 69.995,43.500 km,Automatisch,11/2016,Benzine,331 kW (450 PK),Autobedrijf
+89,Volkswagen ,Polo GTI,€ 28.970,1.242 km,Automatisch,08/2022,Benzine,152 kW (207 PK),Autobedrijf
+90,Jaguar ,F-Type,€ 84.800,3.000 km,Automatisch,09/2022,Benzine,221 kW (300 PK),Autobedrijf
+91,Volkswagen ,Tiguan,€ 20.990,33.809 km,Automatisch,06/2015,Elektrisch/Benzine,110 kW (150 PK),Autobedrijf
+92,MG ,Marvel R,€ 53.485,,Automatisch,,Elektrisch,212 kW (288 PK),Autobedrijf
+93,Mercedes-Benz ,C 43 AMG,€ 98.500,,Automatisch,,Benzine,300 kW (408 PK),Autobedrijf
+94,Jaguar ,F-Type,€ 61.460,0 km,Automatisch,01/2022,Benzine,221 kW (300 PK),Autobedrijf
+95,Mercedes-Benz ,S 300,€ 39.990,181.850 km,Automatisch,10/2014,Elektrisch/Diesel,150 kW (204 PK),Autobedrijf
+96,Mercedes-Benz ,SLK 250,€ 19.950,143.759 km,Automatisch,09/2012,Diesel,150 kW (204 PK),Autobedrijf
+97,Audi ,A7,€ 30.990,130.833 km,Automatisch,11/2016,Diesel,200 kW (272 PK),Autobedrijf
+98,Ford ,Mustang,€ 39.995,22.670 km,Automatisch,06/2018,Benzine,213 kW (290 PK),Autobedrijf
+99,Mercedes-Benz ,CLS 400,€ 57.950,73.000 km,Automatisch,11/2018,Diesel,250 kW (340 PK),Autobedrijf
+100,Mercedes-Benz ,GLC 220,€ 36.990,116.500 km,Automatisch,01/2019,Diesel,120 kW (163 PK),Autobedrijf
+101,MINI ,Cooper D Clubman,€ 8.950,119.000 km,Manueel,09/2011,Diesel,82 kW (111 PK),Autobedrijf
+102,Mercedes-Benz ,GLC 350,€ 41.999,109.000 km,Automatisch,03/2017,Elektrisch/Benzine,155 kW (211 PK),Autobedrijf
+103,BMW ,218,€ 19.990,105.000 km,Automatisch,07/2018,Diesel,100 kW (136 PK),Autobedrijf
+104,Audi ,RS Q3,€ 69.900,21.000 km,Automatisch,01/2021,Benzine,294 kW (400 PK),Autobedrijf
+105,Audi ,RS4,€ 69.900,41.657 km,Automatisch,08/2019,Benzine,331 kW (450 PK),Autobedrijf
+106,Jaguar ,F-Type,€ 137.900,10 km,Automatisch,,Benzine,423 kW (575 PK),Autobedrijf
+107,Jaguar ,F-Pace,€ 97.500,5.000 km,Automatisch,07/2022,Benzine,405 kW (551 PK),Autobedrijf
+108,Alfa Romeo ,Stelvio,€ 26.450,117.908 km,Automatisch,08/2018,Diesel,110 kW (150 PK),Autobedrijf
+109,Audi ,RS6,€ 149.500,19 km,Automatisch,01/2022,Benzine,441 kW (600 PK),Autobedrijf
+110,Mercedes-Benz ,GLE 350,€ 79.990,66.724 km,Automatisch,06/2021,Elektrisch/Diesel,235 kW (320 PK),Autobedrijf
+111,Land Rover ,Discovery Sport,€ 35.950,93.500 km,Automatisch,09/2020,Elektrisch/Diesel,132 kW (179 PK),Autobedrijf
+112,Bentley ,Continental,€ 109.900,46.242 km,Automatisch,06/2017,Benzine,388 kW (528 PK),Autobedrijf
+113,Audi ,A4 allroad,€ 22.990,67.874 km,Manueel,02/2016,Diesel,110 kW (150 PK),Autobedrijf
+114,Citroen ,C4,€ 12.490,64.362 km,Manueel,04/2017,Benzine,96 kW (131 PK),Autobedrijf
+115,BMW ,X7 M,€ 118.750,31.897 km,Automatisch,07/2021,Benzine,390 kW (530 PK),Autobedrijf
+116,Hyundai ,KONA,€ 15.490,77.264 km,Manueel,11/2018,Benzine,88 kW (120 PK),Autobedrijf
+117,Mercedes-Benz ,AMG GT,€ 169.950,9.768 km,Automatisch,08/2018,Benzine,430 kW (585 PK),Autobedrijf
+118,BMW ,330,€ 24.300,133.327 km,Automatisch,07/2017,Elektrisch/Benzine,,Autobedrijf
+119,Alpina ,D5,€ 44.500,157.598 km,Automatisch,02/2018,Diesel,285 kW (387 PK),Autobedrijf
+120,Mercedes-Benz ,C 220,€ 32.100,85.067 km,Automatisch,01/2019,Diesel,143 kW (194 PK),Autobedrijf
+121,BMW ,530,€ 33.500,106.000 km,Automatisch,06/2018,Elektrisch/Benzine,185 kW (252 PK),Autobedrijf
+122,BMW ,X5,€ 99.995,7.239 km,Automatisch,04/2022,Elektrisch/Benzine,290 kW (394 PK),Autobedrijf
+123,Porsche ,Boxster,€ 32.000,89.000 km,Manueel,07/2010,Benzine,188 kW (256 PK),Autobedrijf
+124,MINI ,John Cooper Works Cabrio,€ 12.490,93.000 km,Manueel,12/2004,Benzine,155 kW (211 PK),Autobedrijf
+125,Volkswagen ,T-Roc,€ 24.950,32.233 km,Automatisch,12/2019,Benzine,110 kW (150 PK),Autobedrijf
+126,Aston Martin ,V8,€ 64.950,36.100 km,Automatisch,03/2009,Benzine,313 kW (426 PK),Autobedrijf
+127,BMW ,X1,€ 23.900,69.000 km,Automatisch,12/2017,Diesel,100 kW (136 PK),Autobedrijf
+128,Opel ,Astra,€ 18.900,95.381 km,Manueel,03/2013,Benzine,206 kW (280 PK),Autobedrijf
+129,Porsche ,911,€ 149.990,35.000 km,Automatisch,07/2015,Benzine,412 kW (560 PK),Autobedrijf
+130,Corvette ,Stingray,€ 134.900,5.900 km,Automatisch,07/2022,Benzine,354 kW (481 PK),Autobedrijf
+131,Volkswagen ,Passat Variant,€ 23.950,104.002 km,Automatisch,02/2019,Diesel,110 kW (150 PK),Autobedrijf
+132,Audi ,TT,€ 30.200,31.583 km,Automatisch,04/2015,Benzine,169 kW (230 PK),Autobedrijf
+133,BMW ,X7,€ 119.490,18.000 km,Automatisch,09/2021,Benzine,390 kW (530 PK),Autobedrijf
+134,BMW ,M5,€ 74.900,49.957 km,Automatisch,02/2019,Benzine,441 kW (600 PK),Autobedrijf
+135,BMW ,M2,€ 43.950,72.597 km,Automatisch,01/2019,Benzine,272 kW (370 PK),Autobedrijf
+136,MINI ,John Cooper Works,€ 29.450,55.612 km,Automatisch,03/2018,Benzine,170 kW (231 PK),Autobedrijf
+137,Porsche ,911,€ 184.950,27.300 km,Manueel,01/2018,Benzine,368 kW (500 PK),Autobedrijf
+138,Mercedes-Benz ,E 220,€ 35.990,119.600 km,Automatisch,04/2019,Diesel,143 kW (194 PK),Autobedrijf
+139,Audi ,Q2,€ 21.500,101.000 km,Automatisch,12/2017,Diesel,85 kW (116 PK),Autobedrijf
+140,Audi ,RS3,€ 47.999,63.000 km,Automatisch,03/2019,Benzine,294 kW (400 PK),Autobedrijf
+141,Lexus ,IS 300,€ 24.200,38.676 km,Automatisch,07/2016,Elektrisch/Benzine,,Autobedrijf
+142,BMW ,420,€ 26.999,50.248 km,Automatisch,05/2017,Benzine,120 kW (163 PK),Autobedrijf
+143,Jaguar ,F-Type,€ 90.900,0 km,Automatisch,01/2022,Benzine,221 kW (300 PK),Autobedrijf
+144,Mercedes-Benz ,E 53 AMG,€ 100.500,10 km,Automatisch,,Benzine,320 kW (435 PK),Autobedrijf
+145,Jaguar ,F-Type,€ 47.950,38.825 km,Automatisch,05/2017,Benzine,250 kW (340 PK),Autobedrijf
+146,Audi ,A8,€ 139.899,7.500 km,Automatisch,07/2022,Elektrisch/Benzine,250 kW (340 PK),Autobedrijf
+147,Porsche ,997,€ 97.990,79.594 km,Automatisch,07/2014,Benzine,383 kW (521 PK),Autobedrijf
+148,BMW ,X7 M,€ 119.490,18.000 km,Automatisch,09/2021,Benzine,390 kW (530 PK),Autobedrijf
+149,Ford ,Mustang,€ 40.000,45.975 km,Manueel,01/2020,Benzine,331 kW (450 PK),Autobedrijf
+150,BMW ,316,€ 18.499,112.000 km,Automatisch,01/2018,Diesel,85 kW (116 PK),Autobedrijf
+151,Abarth ,695,,28.000 km,Manueel,11/2019,Benzine,118 kW (160 PK),Autobedrijf
+152,Audi ,A3,€ 16.990,83.354 km,Manueel,05/2016,Diesel,81 kW (110 PK),Autobedrijf
+153,BMW ,Z4,€ 19.900,145.000 km,Automatisch,06/2013,Benzine,120 kW (163 PK),Autobedrijf
+154,Ford ,Ranger,€ 22.990,78.676 km,Manueel,07/2015,Diesel,147 kW (200 PK),Autobedrijf
+155,Volkswagen ,Golf,€ 19.920,28.000 km,Manueel,10/2019,Benzine,96 kW (131 PK),Autobedrijf
+156,BMW ,420,€ 31.800,88.098 km,Automatisch,05/2018,Diesel,140 kW (190 PK),Autobedrijf
+157,Maserati ,GranCabrio,€ 61.990,104.000 km,Automatisch,09/2010,Benzine,323 kW (439 PK),Autobedrijf
+158,Land Rover ,Defender,,25.800 km,Manueel,11/2014,Diesel,90 kW (122 PK),Autobedrijf
+159,Jaguar ,F-Type,€ 65.300,4.000 km,Automatisch,,Benzine,221 kW (300 PK),Autobedrijf
+160,Land Rover ,Defender,,25.800 km,Manueel,11/2014,Diesel,90 kW (122 PK),Autobedrijf
+161,Lexus ,GS 300,€ 26.900,64.814 km,Automatisch,08/2015,Elektrisch/Benzine,,Autobedrijf
+162,BMW ,420,€ 26.900,97.000 km,Automatisch,08/2016,Diesel,120 kW (163 PK),Autobedrijf
+163,MINI ,Cooper,€ 11.990,71.305 km,Automatisch,03/2012,Benzine,90 kW (122 PK),Autobedrijf
+164,Jaguar ,E-Pace,€ 25.990,98.000 km,Manueel,05/2019,Diesel,110 kW (150 PK),Autobedrijf
+165,Jaguar ,F-Pace,€ 28.490,52.500 km,Automatisch,09/2016,Diesel,132 kW (179 PK),Autobedrijf
+166,Audi ,A5,€ 14.999,147.500 km,Automatisch,06/2010,Benzine,132 kW (179 PK),Autobedrijf
+167,BMW ,iX,€ 126.900,21.312 km,Automatisch,07/2021,Elektrisch,386 kW (525 PK),Autobedrijf
+168,Mitsubishi ,Outlander,€ 23.250,108.236 km,Automatisch,04/2016,Elektrisch/Benzine,,Autobedrijf
+169,Audi ,A3,€ 17.499,84.000 km,Manueel,02/2017,Diesel,81 kW (110 PK),Autobedrijf
+170,Renault ,Espace,€ 19.150,137.367 km,Automatisch,06/2017,Benzine,147 kW (200 PK),Autobedrijf
+171,BMW ,X5,€ 79.990,44.000 km,Automatisch,12/2020,Elektrisch/Benzine,210 kW (286 PK),Autobedrijf
+172,Tesla ,Model 3,€ 48.700,15.243 km,Automatisch,08/2021,Elektrisch,246 kW (334 PK),Autobedrijf
+173,BMW ,M5,€ 96.900,23.600 km,Automatisch,05/2021,Benzine,442 kW (601 PK),Autobedrijf
+174,Mercedes-Benz ,B 180,€ 20.950,70.800 km,Automatisch,01/2018,Benzine,90 kW (122 PK),Autobedrijf
+175,Alfa Romeo ,Giulia,€ 59.995,0 km,Automatisch,04/2022,Benzine,206 kW (280 PK),Autobedrijf
+176,BMW ,M2,€ 54.750,23.297 km,Automatisch,11/2018,Benzine,302 kW (411 PK),Autobedrijf
+177,Porsche ,991,€ 78.950,97.000 km,Automatisch,09/2012,Benzine,294 kW (400 PK),Autobedrijf
+178,Renault ,Koleos,€ 13.950,82.123 km,Manueel,07/2013,Diesel,110 kW (150 PK),Autobedrijf
+179,Jaguar ,F-Type,€ 67.800,5.000 km,Automatisch,07/2022,Benzine,221 kW (300 PK),Autobedrijf
+180,Opel ,Adam,€ 13.490,82.507 km,Manueel,05/2017,Benzine,110 kW (150 PK),Autobedrijf
+181,Mercedes-Benz ,GLA 200,€ 16.999,138.800 km,Manueel,03/2014,Diesel,100 kW (136 PK),Autobedrijf
+182,Alfa Romeo ,Giulia,€ 29.750,37.500 km,Automatisch,09/2020,Benzine,147 kW (200 PK),Autobedrijf
+183,Audi ,A4,€ 23.499,115.000 km,Automatisch,09/2016,Diesel,110 kW (150 PK),Autobedrijf
+184,Volvo ,S60,,29.942 km,Automatisch,12/2019,Elektrisch/Benzine,223 kW (303 PK),Autobedrijf
+185,Ford ,S-Max,€ 19.590,90.420 km,Manueel,03/2017,Diesel,110 kW (150 PK),Autobedrijf
+186,Land Rover ,Range Rover Sport,€ 181.500,35 km,Automatisch,01/2022,Benzine,423 kW (575 PK),Autobedrijf
+187,Jeep ,Compass,€ 18.990,45.151 km,Manueel,01/2018,Benzine,103 kW (140 PK),Autobedrijf
+188,Skoda ,Superb,€ 50.999,5 km,Automatisch,,Benzine,110 kW (150 PK),Autobedrijf
+189,Mazda ,3,€ 29.958,0 km,Manueel,09/2022,Benzine,137 kW (186 PK),Autobedrijf
+190,BMW ,420,€ 20.950,162.459 km,Automatisch,09/2014,Diesel,135 kW (184 PK),Autobedrijf
+191,Volkswagen ,T6 Caravelle,€ 39.999,95.700 km,Automatisch,04/2019,Diesel,110 kW (150 PK),Autobedrijf
+192,Skoda ,Octavia,€ 10.990,93.000 km,Manueel,01/2015,Benzine,77 kW (105 PK),Autobedrijf
+193,Mercedes-Benz ,AMG GT,€ 229.950,5.384 km,Automatisch,02/2021,Benzine,430 kW (585 PK),Autobedrijf
+194,BMW ,216,€ 17.490,112.000 km,Manueel,03/2019,Diesel,85 kW (116 PK),Autobedrijf
+195,Audi ,A4,€ 23.900,96.000 km,Automatisch,08/2017,Diesel,110 kW (150 PK),Autobedrijf
+196,Alfa Romeo ,Stelvio,€ 48.970,,Automatisch,,Benzine,147 kW (200 PK),Autobedrijf
+197,BMW ,i4,€ 79.950,30 km,Automatisch,10/2022,Elektrisch,250 kW (340 PK),Autobedrijf
+198,BMW ,216,€ 14.950,98.000 km,Manueel,03/2016,Diesel,85 kW (116 PK),Autobedrijf
+199,Hyundai ,TUCSON,€ 45.274,0 km,Automatisch,07/2022,Elektrisch/Benzine,169 kW (230 PK),Autobedrijf
+200,BMW ,iX3,€ 79.950,500 km,Automatisch,08/2022,Elektrisch,210 kW (286 PK),Autobedrijf
+201,Audi ,S5,€ 36.900,116.000 km,Automatisch,09/2016,Benzine,260 kW (354 PK),Autobedrijf
+202,Porsche ,991,€ 75.991,139.538 km,Automatisch,07/2013,Benzine,257 kW (349 PK),Autobedrijf
+203,BMW ,X5,€ 104.900,100 km,Automatisch,11/2022,Elektrisch/Benzine,290 kW (394 PK),Autobedrijf
+204,Volkswagen ,Touareg,€ 29.990,138.340 km,Automatisch,01/2016,Diesel,193 kW (262 PK),Autobedrijf
+205,Tesla ,Model 3,€ 45.500,48.300 km,Automatisch,03/2021,Elektrisch,246 kW (334 PK),Autobedrijf
+206,MINI ,Cooper S,€ 28.500,12.820 km,Automatisch,08/2020,Benzine,141 kW (192 PK),Autobedrijf
+207,BMW ,530,€ 34.990,86.198 km,Automatisch,03/2018,Elektrisch/Benzine,185 kW (252 PK),Autobedrijf
+208,Volkswagen ,Golf,€ 10.990,148.000 km,Manueel,01/2015,Diesel,77 kW (105 PK),Autobedrijf
+209,Audi ,A1,€ 21.950,38.246 km,Manueel,03/2019,Benzine,85 kW (116 PK),Autobedrijf
+210,Volkswagen ,Golf Variant,€ 10.450,128.000 km,Manueel,01/2015,Diesel,77 kW (105 PK),Autobedrijf
+211,BMW ,530,€ 30.450,124.899 km,Automatisch,04/2017,Elektrisch/Benzine,185 kW (252 PK),Autobedrijf
+212,Mercedes-Benz ,A 220,€ 30.950,65.000 km,Automatisch,02/2019,Benzine,140 kW (190 PK),Autobedrijf
+213,Volkswagen ,Golf GTI,€ 11.800,177.000 km,Manueel,03/2011,Benzine,155 kW (211 PK),Autobedrijf
+214,Volkswagen ,Golf Variant,€ 13.799,132.300 km,Manueel,01/2018,Diesel,85 kW (116 PK),Autobedrijf
+215,Volkswagen ,Golf GTI,€ 19.995,84.000 km,Manueel,04/2014,Benzine,162 kW (220 PK),Autobedrijf
+216,BMW ,M3,€ 103.650,,Automatisch,,Benzine,375 kW (510 PK),Autobedrijf
+217,MINI ,John Cooper Works,€ 44.950,19.000 km,Automatisch,09/2020,Benzine,225 kW (306 PK),Autobedrijf
+218,Alfa Romeo ,Giulietta,€ 13.900,103.407 km,Manueel,10/2017,Benzine,88 kW (120 PK),Autobedrijf
+219,Jaguar ,F-Pace,€ 97.200,12.862 km,Automatisch,01/2022,Benzine,405 kW (551 PK),Autobedrijf
+220,MINI ,One,€ 11.500,126.431 km,Manueel,10/2017,Benzine,55 kW (75 PK),Autobedrijf
+221,Mercedes-Benz ,GLE 500,€ 49.995,36.560 km,Automatisch,06/2017,Benzine,245 kW (333 PK),Autobedrijf
+222,Mercedes-Benz ,A 200,€ 45.490,10 km,Automatisch,,Benzine,120 kW (163 PK),Autobedrijf
+223,Porsche ,911,€ 195.900,9.226 km,Automatisch,03/2022,Benzine,353 kW (480 PK),Autobedrijf
+224,Toyota ,Yaris,€ 44.990,1.955 km,Manueel,,Benzine,192 kW (261 PK),Autobedrijf
+225,BMW ,2002,€ 141.950,12.900 km,Manueel,05/1974,Benzine,125 kW (170 PK),Autobedrijf
+226,BMW ,318,€ 22.490,53.324 km,Manueel,01/2017,Diesel,110 kW (150 PK),Autobedrijf
+227,BMW ,125,€ 18.500,104.874 km,Automatisch,09/2015,Benzine,160 kW (218 PK),Autobedrijf
+228,Alfa Romeo ,Giulietta,€ 13.900,52.439 km,Manueel,01/2017,Benzine,88 kW (120 PK),Autobedrijf
+229,Renault ,Arkana,€ 31.900,1.377 km,Automatisch,11/2021,Elektrisch/Benzine,69 kW (94 PK),Autobedrijf
+230,Mazda ,CX-60,€ 56.890,,Automatisch,,Benzine,241 kW (328 PK),Autobedrijf
+231,BMW ,850,€ 73.900,40.721 km,Automatisch,07/2019,Benzine,390 kW (530 PK),Autobedrijf
+232,Volkswagen ,Golf GTI,€ 18.900,104.722 km,Manueel,09/2016,Benzine,169 kW (230 PK),Autobedrijf
+233,BMW ,M850,€ 77.900,35.000 km,Automatisch,03/2019,Benzine,390 kW (530 PK),Autobedrijf
+234,Mercedes-Benz ,S 400,€ 62.990,29.000 km,Automatisch,09/2016,Benzine,270 kW (367 PK),Autobedrijf
+235,BMW ,M8,€ 107.750,15.164 km,Automatisch,05/2021,Benzine,442 kW (601 PK),Autobedrijf
+236,Volkswagen ,Polo,€ 7.950,75.736 km,Manueel,04/2014,Benzine,44 kW (60 PK),Autobedrijf
+237,Opel ,Grandland X,,103.255 km,Manueel,01/2018,Diesel,88 kW (120 PK),Autobedrijf
+238,Volkswagen ,Golf,€ 37.250,12.142 km,Automatisch,02/2020,Benzine,180 kW (245 PK),Autobedrijf
+239,Mercedes-Benz ,E 200,€ 13.490,117.669 km,Automatisch,05/2010,Diesel,100 kW (136 PK),Autobedrijf
+240,Volkswagen ,e-Golf,€ 23.850,106.157 km,Automatisch,04/2018,Elektrisch,100 kW (136 PK),Autobedrijf
+241,Abarth ,595C,€ 27.385,1.000 km,Manueel,07/2022,Benzine,121 kW (165 PK),Autobedrijf
+242,Audi ,S4,€ 46.990,28.380 km,Automatisch,07/2017,Benzine,260 kW (354 PK),Autobedrijf
+243,Audi ,Q2,€ 21.990,55.000 km,Manueel,05/2018,Benzine,110 kW (150 PK),Autobedrijf
+244,Volkswagen ,Golf,€ 12.990,97.198 km,Manueel,02/2017,Benzine,63 kW (86 PK),Autobedrijf
+245,BMW ,435,€ 29.950,87.974 km,Automatisch,10/2014,Diesel,230 kW (313 PK),Autobedrijf
+246,BMW ,X3,€ 37.495,79.500 km,Automatisch,07/2018,Diesel,195 kW (265 PK),Autobedrijf
+247,Mercedes-Benz ,C 220,€ 13.400,94.281 km,Manueel,05/2014,Diesel,120 kW (163 PK),Autobedrijf
+248,BMW ,M3,€ 47.990,145.000 km,Automatisch,12/2014,Benzine,317 kW (431 PK),Autobedrijf
+249,BMW ,Z3,€ 7.390,188.070 km,Manueel,07/1997,Benzine,85 kW (116 PK),Autobedrijf
+250,Mercedes-Benz ,SLC 180,€ 33.990,52.514 km,Automatisch,04/2017,Benzine,115 kW (156 PK),Autobedrijf
+251,Kia ,Stonic,€ 13.450,90.769 km,Manueel,11/2018,Benzine,74 kW (101 PK),Autobedrijf
+252,Audi ,Q2,€ 24.950,57.548 km,Automatisch,04/2019,Benzine,110 kW (150 PK),Autobedrijf
+253,Porsche ,Panamera,€ 46.950,85.000 km,Automatisch,11/2014,Benzine,245 kW (333 PK),Autobedrijf
+254,BMW ,Z4,€ 9.999,193.575 km,Automatisch,01/2005,Benzine,170 kW (231 PK),Autobedrijf
+255,BMW ,418,€ 22.290,89.335 km,Automatisch,02/2017,Diesel,110 kW (150 PK),Autobedrijf
+256,BMW ,630,€ 40.990,78.077 km,Automatisch,10/2018,Diesel,195 kW (265 PK),Autobedrijf
+257,Alfa Romeo ,Giulietta,€ 15.500,100.243 km,Automatisch,11/2015,Benzine,177 kW (241 PK),Autobedrijf
+258,Ford ,F 150,€ 42.900,115.000 km,Automatisch,01/2016,LPG,272 kW (370 PK),Autobedrijf
+259,Mercedes-Benz ,A 35 AMG,€ 65.500,5 km,Automatisch,,Benzine,225 kW (306 PK),Autobedrijf
+260,BMW ,X3 M,€ 48.450,59.000 km,Automatisch,06/2018,Benzine,265 kW (360 PK),Autobedrijf
+261,Mercedes-Benz ,GLC 220,€ 32.750,118.326 km,Automatisch,07/2017,Diesel,120 kW (163 PK),Autobedrijf
+262,Porsche ,991,€ 184.995,22.173 km,Manueel,05/2018,Benzine,368 kW (500 PK),Autobedrijf
+263,Land Rover ,Range Rover Velar,€ 87.500,1.600 km,Automatisch,12/2021,Elektrisch/Benzine,297 kW (404 PK),Autobedrijf
+264,BMW ,X2,€ 25.990,65.000 km,Automatisch,06/2018,Diesel,110 kW (150 PK),Autobedrijf
+265,Audi ,R8,€ 134.950,14.890 km,Automatisch,06/2018,Benzine,397 kW (540 PK),Autobedrijf
+266,BMW ,530,€ 34.100,93.993 km,Automatisch,10/2018,Elektrisch/Benzine,,Autobedrijf
+267,MINI ,One,€ 17.290,36.144 km,Manueel,01/2019,Benzine,75 kW (102 PK),Autobedrijf
+268,Jaguar ,F-Type,€ 77.990,0 km,Automatisch,01/2022,Benzine,221 kW (300 PK),Autobedrijf
+269,Mercedes-Benz ,CLS 350,€ 44.950,116.500 km,Automatisch,11/2018,Diesel,210 kW (286 PK),Autobedrijf
+270,MINI ,Cooper,€ 15.490,68.000 km,Manueel,01/2017,Benzine,100 kW (136 PK),Autobedrijf
+271,Jaguar ,XJ,€ 21.990,111.061 km,Automatisch,08/2011,Diesel,202 kW (275 PK),Autobedrijf
+272,Mercedes-Benz ,C 250,€ 22.990,111.981 km,Automatisch,06/2015,Diesel,150 kW (204 PK),Autobedrijf
+273,SsangYong ,MUSSO,€ 28.900,55.455 km,Automatisch,06/2020,Diesel,133 kW (181 PK),Autobedrijf
+274,SsangYong ,XLV,€ 14.490,60.618 km,Manueel,01/2019,Benzine,94 kW (128 PK),Autobedrijf
+275,Audi ,RS4,€ 69.900,57.000 km,Automatisch,05/2019,Benzine,331 kW (450 PK),Autobedrijf
+276,Audi ,A3,€ 26.900,50.000 km,Automatisch,08/2019,Benzine,110 kW (150 PK),Autobedrijf
+277,BMW ,125,€ 26.999,69.000 km,Automatisch,03/2019,Benzine,165 kW (224 PK),Autobedrijf
+278,Mercedes-Benz ,E 220,€ 19.650,89.753 km,Manueel,07/2013,Diesel,125 kW (170 PK),Autobedrijf
+279,BMW ,116,€ 15.990,118.111 km,Automatisch,01/2016,Diesel,85 kW (116 PK),Autobedrijf
+280,Volvo ,960,€ 9.999,146.390 km,Automatisch,01/1997,Benzine,150 kW (204 PK),Autobedrijf
+281,Audi ,A3,€ 34.950,13.353 km,Automatisch,01/2020,Benzine,140 kW (190 PK),Autobedrijf
+282,Porsche ,992,€ 269.995,300 km,Automatisch,,Benzine,375 kW (510 PK),Autobedrijf
+283,MINI ,Cooper S Cabrio,€ 28.900,33.656 km,Automatisch,04/2018,Benzine,141 kW (192 PK),Autobedrijf
+284,Audi ,A4,€ 19.599,79.000 km,Manueel,06/2017,Diesel,90 kW (122 PK),Autobedrijf
+285,Renault ,Megane,€ 8.995,81.105 km,Manueel,03/2011,Benzine,96 kW (131 PK),Autobedrijf
+286,Audi ,A3,€ 19.500,85.830 km,Manueel,04/2019,Diesel,85 kW (116 PK),Autobedrijf
+287,Renault ,Latitude,€ 9.490,123.000 km,Manueel,01/2013,Diesel,110 kW (150 PK),Autobedrijf
+288,BMW ,220,€ 23.995,56.000 km,Manueel,10/2017,Diesel,140 kW (190 PK),Autobedrijf
+289,Audi ,RS4,€ 64.900,102.000 km,Automatisch,05/2018,Benzine,331 kW (450 PK),Autobedrijf
+290,Jaguar ,F-Type,€ 66.500,10 km,Automatisch,01/2022,Benzine,221 kW (300 PK),Autobedrijf
+291,BMW ,225,€ 20.700,92.524 km,Automatisch,05/2017,Elektrisch/Benzine,165 kW (224 PK),Autobedrijf
+292,Mercedes-Benz ,CLA 180,€ 15.750,139.000 km,Manueel,05/2016,Diesel,80 kW (109 PK),Autobedrijf
+293,Mercedes-Benz ,E 300,€ 49.890,41.812 km,Automatisch,11/2019,Elektrisch/Diesel,143 kW (194 PK),Autobedrijf
+294,BMW ,640,€ 36.950,102.630 km,Automatisch,05/2014,Diesel,230 kW (313 PK),Autobedrijf
+295,SEAT ,Ateca,€ 18.990,93.121 km,Manueel,05/2018,Benzine,110 kW (150 PK),Autobedrijf
+296,Audi ,A5,€ 18.100,139.195 km,Manueel,05/2015,Diesel,140 kW (190 PK),Autobedrijf
+297,Land Rover ,Range Rover Sport,€ 179.000,3.000 km,Automatisch,04/2022,Benzine,423 kW (575 PK),Autobedrijf
+298,Mercedes-Benz ,GLC 220,€ 28.500,155.890 km,Automatisch,07/2017,Diesel,125 kW (170 PK),Autobedrijf
+299,Porsche ,911,€ 189.900,2.000 km,Automatisch,06/2022,Benzine,283 kW (385 PK),Autobedrijf
+300,Mercedes-Benz ,GLC 220,€ 28.500,155.890 km,Automatisch,07/2017,Diesel,125 kW (170 PK),Autobedrijf
+301,Audi ,SQ8,€ 99.950,73.000 km,Automatisch,05/2020,Diesel,320 kW (435 PK),Autobedrijf
+302,Cupra ,Formentor,€ 48.900,58 km,Automatisch,05/2022,Elektrisch/Benzine,110 kW (150 PK),Autobedrijf
+303,BMW ,Z4 M,€ 58.900,6.000 km,Automatisch,08/2021,Benzine,250 kW (340 PK),Autobedrijf
+304,Mercedes-Benz ,GLA 180,€ 23.900,36.240 km,Manueel,02/2017,Diesel,80 kW (109 PK),Autobedrijf
+305,Audi ,A4,€ 19.995,48.500 km,Manueel,09/2016,Diesel,90 kW (122 PK),Autobedrijf
+306,Mercedes-Benz ,V 250,€ 46.990,82.005 km,Automatisch,08/2017,Diesel,140 kW (190 PK),Autobedrijf
+307,Porsche ,718 Spyder,€ 119.718,10.850 km,Automatisch,05/2021,Benzine,309 kW (420 PK),Autobedrijf
+308,Mercedes-Benz ,E 220,€ 34.900,125.000 km,Automatisch,10/2018,Diesel,120 kW (163 PK),Autobedrijf
+309,BMW ,218,€ 25.750,83.988 km,Manueel,04/2019,Diesel,110 kW (150 PK),Autobedrijf
+310,MINI ,Cooper,€ 31.500,22.213 km,Automatisch,07/2020,Elektrisch,135 kW (184 PK),Autobedrijf
+311,Audi ,A3,€ 32.900,22.015 km,Automatisch,05/2020,Elektrisch/Benzine,150 kW (204 PK),Autobedrijf
+312,Mazda ,6,€ 42.689,5 km,Automatisch,,Benzine,143 kW (194 PK),Autobedrijf
+313,BMW ,118,€ 28.990,38.664 km,Automatisch,12/2020,Diesel,110 kW (150 PK),Autobedrijf
+314,Ford ,Mustang,€ 66.810,,Halfautomaat,12/2023,Benzine,330 kW (449 PK),Autobedrijf
+315,Kia ,XCeed,€ 24.950,12.656 km,Manueel,04/2021,Benzine,103 kW (140 PK),Autobedrijf
+316,BMW ,530,€ 57.900,3.058 km,Automatisch,12/2021,Elektrisch/Benzine,215 kW (292 PK),Autobedrijf
+317,Mercedes-Benz ,GLC 250,€ 31.990,128.000 km,Automatisch,02/2018,Diesel,150 kW (204 PK),Autobedrijf
+318,Land Rover ,Discovery,€ 42.490,103.068 km,Automatisch,04/2017,Diesel,190 kW (258 PK),Autobedrijf
+319,Jaguar ,F-Pace,€ 27.500,174.000 km,Automatisch,10/2016,Benzine,250 kW (340 PK),Autobedrijf
+320,BMW ,114,€ 16.490,95.000 km,Manueel,04/2018,Diesel,70 kW (95 PK),Autobedrijf
+321,Land Rover ,Discovery,€ 42.490,103.068 km,Automatisch,04/2017,Diesel,190 kW (258 PK),Autobedrijf
+322,Porsche ,911,€ 184.995,22.173 km,Manueel,05/2018,Benzine,368 kW (500 PK),Autobedrijf
+323,BMW ,Z4 M,€ 61.450,8.024 km,Automatisch,12/2021,Benzine,250 kW (340 PK),Autobedrijf
+324,Mercedes-Benz ,CLA 250,€ 43.900,32.879 km,Automatisch,11/2020,Elektrisch/Benzine,160 kW (218 PK),Autobedrijf
+325,Mercedes-Benz ,V 200,€ 42.990,134.485 km,Automatisch,09/2017,Diesel,100 kW (136 PK),Autobedrijf
+326,Audi ,A3,€ 29.990,99.000 km,Automatisch,07/2016,Diesel,110 kW (150 PK),Autobedrijf
+327,Volkswagen ,Golf,€ 27.395,64.800 km,Automatisch,02/2016,Benzine,221 kW (300 PK),Autobedrijf
+328,Volvo ,XC90,€ 38.900,177.930 km,Automatisch,05/2016,Elektrisch/Benzine,300 kW (408 PK),Autobedrijf
+329,Tesla ,Model Y,€ 64.500,13.500 km,Automatisch,01/2022,Elektrisch,331 kW (450 PK),Autobedrijf
+330,BMW ,116,€ 29.950,15.290 km,Automatisch,01/2021,Benzine,80 kW (109 PK),Autobedrijf
+331,Volkswagen ,Scirocco,€ 20.990,53.000 km,Manueel,11/2010,Benzine,195 kW (265 PK),Autobedrijf
+332,Audi ,SQ5,€ 84.950,20 km,Automatisch,05/2022,Diesel,251 kW (341 PK),Autobedrijf
+333,Mercedes-Benz ,CLA 200,€ 20.990,99.000 km,Automatisch,09/2015,Diesel,100 kW (136 PK),Autobedrijf
+334,Mercedes-Benz ,AMG GT,€ 89.990,68.900 km,Automatisch,08/2019,Benzine,270 kW (367 PK),Autobedrijf
+335,Land Rover ,Discovery,€ 88.900,15 km,Automatisch,01/2022,Benzine,265 kW (360 PK),Autobedrijf
+336,Opel ,Meriva,€ 12.450,15.874 km,Manueel,08/2017,Benzine,88 kW (120 PK),Autobedrijf
+337,Volkswagen ,Arteon,€ 27.490,69.000 km,Manueel,05/2020,Diesel,110 kW (150 PK),Autobedrijf
+338,Volkswagen ,Tiguan,€ 24.990,29.193 km,Manueel,06/2017,Benzine,110 kW (150 PK),Autobedrijf
+339,BMW ,216,€ 14.990,103.229 km,Manueel,09/2017,Diesel,85 kW (116 PK),Autobedrijf
+340,BMW ,430,€ 33.800,42.766 km,Manueel,02/2018,Benzine,185 kW (252 PK),Autobedrijf
+341,Volkswagen ,Arteon,€ 27.490,69.000 km,Manueel,05/2020,Diesel,110 kW (150 PK),Autobedrijf
+342,Bentley ,Continental,€ 250.000,27.359 km,Automatisch,06/2019,Benzine,467 kW (635 PK),Autobedrijf
+343,Volkswagen ,Golf,€ 12.950,95.239 km,Manueel,12/2014,Benzine,77 kW (105 PK),Autobedrijf
+344,Peugeot ,308,€ 20.390,61.504 km,Manueel,02/2021,Diesel,96 kW (131 PK),Autobedrijf
+345,BMW ,545,€ 79.750,13.895 km,Automatisch,10/2021,Elektrisch/Benzine,290 kW (394 PK),Autobedrijf
+346,BMW ,M5,€ 178.900,3.300 km,Automatisch,07/2022,Benzine,467 kW (635 PK),Autobedrijf
+347,BMW ,i8,€ 114.995,25.311 km,Automatisch,04/2019,Elektrisch/Benzine,170 kW (231 PK),Autobedrijf
+348,BMW ,428,€ 23.700,115.201 km,Automatisch,04/2014,Benzine,180 kW (245 PK),Autobedrijf
+349,Audi ,A1,€ 19.990,82.936 km,Manueel,03/2019,Benzine,85 kW (116 PK),Autobedrijf
+350,Porsche ,Cayenne,€ 89.990,69.613 km,Automatisch,11/2019,Benzine,250 kW (340 PK),Autobedrijf
+351,BMW ,530,,8.669 km,Automatisch,10/2017,Benzine,135 kW (184 PK),Autobedrijf
+352,Lexus ,IS 300,€ 28.795,51.547 km,Automatisch,01/2019,Benzine,238 kW (324 PK),Autobedrijf
+353,Ford ,Mustang,€ 67.429,,Halfautomaat,11/2022,Benzine,330 kW (449 PK),Autobedrijf
+354,Toyota ,C-HR,€ 20.490,53.626 km,Automatisch,02/2017,Elektrisch/Benzine,72 kW (98 PK),Autobedrijf
+355,Porsche ,Boxster,€ 67.990,14.183 km,Automatisch,07/2019,Benzine,221 kW (300 PK),Autobedrijf
+356,Audi ,Q3,€ 29.990,80.680 km,Manueel,03/2019,Diesel,110 kW (150 PK),Autobedrijf
+357,Audi ,Q5,€ 19.950,143.390 km,Manueel,12/2016,Diesel,110 kW (150 PK),Autobedrijf
+358,Citroen ,DS3,€ 10.690,69.369 km,Manueel,03/2015,Benzine,110 kW (150 PK),Autobedrijf
+359,BMW ,118,€ 26.490,52.664 km,Manueel,01/2021,Diesel,110 kW (150 PK),Autobedrijf
+360,Volkswagen ,Golf,€ 23.000,86.142 km,Manueel,04/2015,Benzine,162 kW (220 PK),Autobedrijf
+361,Alfa Romeo ,Tonale,€ 42.295,0 km,Automatisch,09/2022,Elektrisch/Benzine,96 kW (131 PK),Autobedrijf
+362,BMW ,745,€ 77.500,38.916 km,Automatisch,02/2020,Elektrisch/Benzine,210 kW (286 PK),Autobedrijf
+363,BMW ,520,€ 52.250,7.100 km,Automatisch,03/2022,Elektrisch/Benzine,150 kW (204 PK),Autobedrijf
+364,Mercedes-Benz ,C 180,€ 48.950,632 km,Automatisch,07/2020,Benzine,115 kW (156 PK),Autobedrijf
+365,MINI ,Cooper SD,€ 23.950,39.643 km,Manueel,03/2019,Diesel,125 kW (170 PK),Autobedrijf
+366,Porsche ,992,€ 139.911,8.000 km,Automatisch,08/2019,Benzine,331 kW (450 PK),Autobedrijf
+367,BMW ,640,€ 36.950,82.200 km,Automatisch,05/2013,Diesel,230 kW (313 PK),Autobedrijf
+368,Audi ,Q5,€ 27.950,69.756 km,Manueel,06/2017,Diesel,100 kW (136 PK),Autobedrijf
+369,Ford ,Ranger Raptor,€ 52.900,43.965 km,Automatisch,01/2020,Diesel,157 kW (213 PK),Autobedrijf
+370,Volkswagen ,Tiguan,€ 26.950,68.498 km,Automatisch,05/2018,Benzine,110 kW (150 PK),Autobedrijf
+371,Audi ,A6,€ 33.990,83.346 km,Automatisch,04/2018,Benzine,185 kW (252 PK),Autobedrijf
+372,Jaguar ,E-Type,€ 71.620,0 km,Automatisch,01/2022,Benzine,221 kW (300 PK),Autobedrijf
+373,Jaguar ,XE,€ 25.500,21.590 km,Automatisch,04/2018,Benzine,147 kW (200 PK),Autobedrijf
+374,Jaguar ,XE,€ 54.950,10 km,Automatisch,,Benzine,184 kW (250 PK),Autobedrijf
+375,BMW ,850,€ 116.900,8.100 km,Automatisch,10/2021,Benzine,390 kW (530 PK),Autobedrijf
+376,Jaguar ,F-Type,€ 86.224,12 km,Automatisch,01/2022,Benzine,221 kW (300 PK),Autobedrijf
+377,Porsche ,Cayenne,€ 78.900,30.000 km,Automatisch,08/2018,Benzine,250 kW (340 PK),Autobedrijf
+378,BMW ,420,€ 22.750,99.000 km,Automatisch,02/2014,Diesel,135 kW (184 PK),Autobedrijf
+379,Peugeot ,508,€ 26.500,54.000 km,Automatisch,07/2019,Benzine,133 kW (181 PK),Autobedrijf
+380,Mercedes-Benz ,GLC 220,€ 33.000,102.000 km,Automatisch,08/2017,Diesel,120 kW (163 PK),Autobedrijf
+381,Alfa Romeo ,Giulia,€ 27.995,40.122 km,Automatisch,07/2020,Diesel,118 kW (160 PK),Autobedrijf
+382,Audi ,A5,€ 31.900,70.551 km,Automatisch,06/2018,Benzine,140 kW (190 PK),Autobedrijf
+383,Volkswagen ,Beetle,€ 26.990,31.571 km,Automatisch,10/2017,Benzine,162 kW (220 PK),Autobedrijf
+384,BMW ,420,€ 35.750,66.000 km,Automatisch,04/2019,Benzine,135 kW (184 PK),Autobedrijf
+385,BMW ,216,€ 21.700,43.455 km,Automatisch,06/2020,Diesel,85 kW (116 PK),Autobedrijf
+386,Peugeot ,308,€ 17.490,120.442 km,Manueel,04/2016,Benzine,151 kW (205 PK),Autobedrijf
+387,BMW ,X1,€ 20.900,112.000 km,Manueel,11/2018,Diesel,85 kW (116 PK),Autobedrijf
+388,BMW ,330,€ 22.700,124.881 km,Automatisch,07/2016,Elektrisch/Benzine,,Autobedrijf
+389,Porsche ,Cayman,€ 49.900,89.980 km,Automatisch,02/2013,Benzine,202 kW (275 PK),Autobedrijf
+390,Audi ,RS5,€ 54.995,67.360 km,Automatisch,12/2017,Benzine,331 kW (450 PK),Autobedrijf
+391,SEAT ,Tarraco,€ 29.990,60.505 km,Manueel,04/2020,Diesel,110 kW (150 PK),Autobedrijf
+392,Skoda ,Karoq,€ 26.300,30.000 km,Automatisch,11/2018,Benzine,110 kW (150 PK),Autobedrijf
+393,BMW ,318,€ 27.800,85.000 km,Automatisch,09/2019,Diesel,110 kW (150 PK),Autobedrijf
+394,BMW ,X6 M,€ 129.900,18.400 km,Automatisch,09/2020,Benzine,459 kW (624 PK),Autobedrijf
+395,Citroen ,C5,€ 11.990,90.331 km,Manueel,03/2016,Diesel,110 kW (150 PK),Autobedrijf
+396,Alfa Romeo ,Stelvio,€ 37.500,15.000 km,Automatisch,08/2021,Benzine,147 kW (200 PK),Autobedrijf
+397,Audi ,A6 allroad,€ 21.990,180.000 km,Automatisch,11/2013,Diesel,230 kW (313 PK),Autobedrijf
+398,Skoda ,Superb,€ 12.950,92.000 km,Automatisch,10/2013,Diesel,103 kW (140 PK),Autobedrijf
+399,BMW ,420,€ 24.990,103.083 km,Automatisch,02/2015,Diesel,135 kW (184 PK),Autobedrijf
