@@ -1,364 +1,364 @@
 ,name,model,price,kilometers,transmission,fuel_type,seller,power_pk,power_kw,year_manufactured,month_manufactured
-0,Abarth ,695C,30.95,0.0,Manual,Petrol,Car Company,165,121,2022,9
-1,Porsche ,911,249.95,6.0,Automatic,Petrol,Car Company,480,353,2022,1
-2,Porsche ,Cayman,102.99,9.155,Manual,Petrol,Car Company,420,309,2020,3
-3,Ford ,Mustang,33.99,49.0,Manual,Petrol,Car Company,317,233,2019,5
-4,BMW ,640,24.0,116.753,Automatic,Petrol,Car Company,320,235,2013,10
-5,Mercedes-Benz ,AMG GT,94.75,71.189,Automatic,Petrol,Car Company,367,270,2019,1
-6,BMW ,M5,59.99,121.73,Automatic,Petrol,Car Company,600,441,2018,8
-7,Porsche ,Boxster,30.9,135.9,Automatic,Petrol,Car Company,295,217,2006,8
-8,Tesla ,Model Y,66.8,17.5,Automatic,Electric,Car Company,514,378,2021,11
-9,Porsche ,718,102.99,9.155,Manual,Petrol,Car Company,420,309,2020,3
-10,Audi ,R8,69.95,53.981,Automatic,Petrol,Car Company,420,309,2007,9
-11,BMW ,225,20.3,120.434,Automatic,Electric/Petrol,Car Company,224,165,2016,7
-12,Bentley ,Continental,289.99,3.0,Automatic,Petrol,Car Company,551,405,2022,6
-13,Tesla ,Model Y,59.95,22.412,Automatic,Electric,Car Company,514,378,2021,11
-14,Porsche ,Boxster,26.6,93.651,Manual,Petrol,Car Company,211,155,2007,1
-15,Lexus ,IS 300,27.45,43.754,Automatic,Electric/Petrol,Car Company,181,133,2018,3
-16,Fiat ,500X,14.99,89.0,Manual,Diesel,Car Company,116,85,2015,5
-17,Jaguar ,F-Type,69.4,15.0,Automatic,Petrol,Car Company,300,221,2022,1
-18,Volkswagen ,Passat Variant,10.49,199.989,Manual,Diesel,Car Company,150,110,2015,4
-19,MINI ,Cooper Countryman,24.2,115.767,Automatic,Electric/Petrol,Car Company,224,165,2019,1
-20,Mercedes-Benz ,S 450,66.0,126.0,Automatic,Electric/Petrol,Car Company,367,270,2018,12
-21,BMW ,425,23.5,121.538,Automatic,Diesel,Car Company,218,160,2015,6
-22,BMW ,420,18.9,129.9,Manual,Petrol,Car Company,184,135,2016,9
-23,Jaguar ,F-Type,112.9,0.0,Automatic,Petrol,Car Company,575,423,2022,1
-24,Porsche ,911,97.99,79.594,Automatic,Petrol,Car Company,521,383,2014,7
-25,Audi ,RS6,124.95,39.98,Automatic,Petrol,Car Company,600,441,2021,5
-26,Mercedes-Benz ,S 560,99.995,148.679,Automatic,Petrol,Car Company,469,345,2018,5
-27,Alpine ,A110,65.95,1.739,Automatic,Petrol,Car Company,252,185,2021,8
-28,BMW ,M3,93.75,3.5,Automatic,Petrol,Car Company,510,375,2021,3
-29,BMW ,M3,38.5,149.55,Manual,Petrol,Car Company,343,252,2002,3
-30,BMW ,420,24.9,113.0,Automatic,Diesel,Car Company,184,135,2015,1
-31,Alfa Romeo ,Giulia,34.49,25.0,Automatic,Petrol,Car Company,201,148,2021,1
-32,Porsche ,911,169.95,21.528,Manual,Petrol,Car Company,500,368,2017,11
-33,Porsche ,911,149.95,41.015,Automatic,Petrol,Car Company,450,331,2019,2
-34,Audi ,TT,30.99,50.35,Automatic,Petrol,Car Company,230,169,2017,10
-35,Lamborghini ,Aventador,219.95,41.0,Automatic,Petrol,Car Company,700,515,2013,4
-36,MG ,Marvel R,53.867,0.0,Automatic,Electric,Car Company,302,222,2022,6
-37,Audi ,RS6,74.9,89.0,Automatic,Petrol,Car Company,560,412,2016,1
-38,BMW ,M3,95.0,7.5,Automatic,Petrol,Car Company,510,375,2021,11
-39,Ford ,Focus,30.9,61.5,Manual,Petrol,Car Company,349,257,2017,2
-40,BMW ,X1,7.99,189.135,Manual,Diesel,Car Company,136,100,2012,3
-41,Chevrolet ,Camaro,89.95,1.136,Manual,Petrol,Car Company,349,257,1969,2
-42,Mercedes-Benz ,GLE 63 AMG,78.0,79.0,Automatic,Petrol,Car Company,585,430,2018,7
-43,BMW ,520,22.99,37.735,Automatic,Diesel,Car Company,184,135,2014,10
-44,Land Rover ,Range Rover Sport,39.9,155.0,Automatic,Diesel,Car Company,340,250,2016,10
-45,Volkswagen ,Golf GTE,21.2,114.37,Automatic,Electric/Petrol,Car Company,204,150,2017,10
-46,BMW ,225,20.4,125.108,Automatic,Electric/Petrol,Car Company,224,165,2017,12
-47,Mercedes-Benz ,E 63 AMG,77.9,50.0,Automatic,Petrol,Car Company,571,420,2019,2
-48,Bentley ,Continental,129.99,53.747,Automatic,Petrol,Car Company,506,372,2017,4
-49,Audi ,A3,10.999,201.5,Manual,Petrol,Car Company,110,81,2015,3
-50,Audi ,R8,79.95,85.446,Manual,Petrol,Car Company,430,316,2011,6
-51,BMW ,125,20.2,85.19,Manual,Petrol,Car Company,218,160,2016,8
-52,Audi ,A4,13.95,140.217,Manual,Diesel,Car Company,136,100,2015,4
-53,Renault ,Trafic,39.9,7.0,Manual,Diesel,Car Company,150,110,2022,6
-54,Bentley ,Flying Spur,114.99,68.5,Automatic,Petrol,Car Company,528,388,2018,6
-55,Porsche ,718,117.718,974.0,Manual,Petrol,Car Company,420,309,2020,10
-56,BMW ,M2,62.0,8.351,Automatic,Petrol,Car Company,411,302,2020,3
-57,Porsche ,991,184.95,18.0,Manual,Petrol,Car Company,500,368,2018,3
-58,Fiat ,500 Abarth,15.99,31.022,Manual,Petrol,Car Company,179,132,2016,5
-59,BMW ,640,33.99,59.711,Automatic,Diesel,Car Company,313,230,2013,7
-60,Audi ,RS4,76.99,38.0,Automatic,Petrol,Car Company,450,331,2020,11
-61,BMW ,i4,103.9,6.001,Automatic,Electric,Car Company,544,400,2022,6
-62,Mercedes-Benz ,AMG GT,94.995,34.7,Automatic,Petrol,Car Company,367,270,2020,5
-63,Land Rover ,Defender,99.95,7.8,Automatic,Petrol,Car Company,400,294,2022,8
-64,BMW ,530,37.95,108.047,Automatic,Electric/Petrol,Car Company,184,135,2020,1
-65,Audi ,A3,12.95,135.0,Manual,Petrol,Car Company,160,118,2011,8
-66,BMW ,520,11.5,154.867,Manual,Diesel,Car Company,163,120,2010,11
-67,Jeep ,Wrangler,24.995,122.0,Manual,Diesel,Car Company,200,147,2011,1
-68,Porsche ,Panamera,35.99,104.345,Automatic,Diesel,Car Company,250,184,2011,7
-69,Volkswagen ,Golf Sportsvan,18.95,61.507,Manual,Diesel,Car Company,150,110,2017,12
-70,MINI ,One,13.99,63.492,Manual,Petrol,Car Company,75,55,2018,2
-71,Audi ,TT,27.2,74.224,Manual,Diesel,Car Company,184,135,2016,8
-72,Bentley ,Continental,75.399,94.62,Automatic,Petrol,Car Company,507,373,2013,3
-73,Porsche ,911,154.95,17.262,Automatic,Petrol,Car Company,450,331,2021,1
-74,Ford ,Focus,21.89,27.219,Manual,Petrol,Car Company,250,184,2017,11
-75,Hyundai ,KONA,18.79,56.685,Automatic,Diesel,Car Company,136,100,2019,4
-76,Audi ,TT,25.9,47.26,Manual,Diesel,Car Company,184,135,2015,10
-77,BMW ,730,40.95,109.468,Automatic,Diesel,Car Company,265,195,2018,1
-78,Porsche ,911,95.0,16.0,Automatic,Petrol,Car Company,349,257,2016,1
-79,BMW ,X5,34.75,184.465,Automatic,Electric/Petrol,Car Company,245,180,2017,3
-80,Lexus ,IS F,32.999,72.0,Automatic,Petrol,Car Company,420,309,2008,5
-81,Mercedes-Benz ,GLE 500,49.995,36.56,Automatic,Electric/Petrol,Car Company,333,245,2017,6
-82,Audi ,TT RS,61.9,15.321,Automatic,Petrol,Car Company,400,294,2017,1
-83,BMW ,M3,69.995,43.5,Automatic,Petrol,Car Company,450,331,2016,11
-84,Volkswagen ,Polo GTI,28.97,1.242,Automatic,Petrol,Car Company,207,152,2022,8
-85,Jaguar ,F-Type,84.8,3.0,Automatic,Petrol,Car Company,300,221,2022,9
-86,Volkswagen ,Tiguan,20.99,33.809,Automatic,Electric/Petrol,Car Company,150,110,2015,6
-87,Jaguar ,F-Type,61.46,0.0,Automatic,Petrol,Car Company,300,221,2022,1
-88,Mercedes-Benz ,S 300,39.99,181.85,Automatic,Electric/Diesel,Car Company,204,150,2014,10
-89,Mercedes-Benz ,SLK 250,19.95,143.759,Automatic,Diesel,Car Company,204,150,2012,9
-90,Audi ,A7,30.99,130.833,Automatic,Diesel,Car Company,272,200,2016,11
-91,Ford ,Mustang,39.995,22.67,Automatic,Petrol,Car Company,290,213,2018,6
-92,Mercedes-Benz ,CLS 400,57.95,73.0,Automatic,Diesel,Car Company,340,250,2018,11
-93,Mercedes-Benz ,GLC 220,36.99,116.5,Automatic,Diesel,Car Company,163,120,2019,1
-94,MINI ,Cooper D Clubman,8.95,119.0,Manual,Diesel,Car Company,111,82,2011,9
-95,Mercedes-Benz ,GLC 350,41.999,109.0,Automatic,Electric/Petrol,Car Company,211,155,2017,3
-96,BMW ,218,19.99,105.0,Automatic,Diesel,Car Company,136,100,2018,7
-97,Audi ,RS Q3,69.9,21.0,Automatic,Petrol,Car Company,400,294,2021,1
-98,Audi ,RS4,69.9,41.657,Automatic,Petrol,Car Company,450,331,2019,8
-99,Jaguar ,F-Pace,97.5,5.0,Automatic,Petrol,Car Company,551,405,2022,7
-100,Alfa Romeo ,Stelvio,26.45,117.908,Automatic,Diesel,Car Company,150,110,2018,8
-101,Audi ,RS6,149.5,19.0,Automatic,Petrol,Car Company,600,441,2022,1
-102,Mercedes-Benz ,GLE 350,79.99,66.724,Automatic,Electric/Diesel,Car Company,320,235,2021,6
-103,Land Rover ,Discovery Sport,35.95,93.5,Automatic,Electric/Diesel,Car Company,179,132,2020,9
-104,Bentley ,Continental,109.9,46.242,Automatic,Petrol,Car Company,528,388,2017,6
-105,Audi ,A4 allroad,22.99,67.874,Manual,Diesel,Car Company,150,110,2016,2
-106,Citroen ,C4,12.49,64.362,Manual,Petrol,Car Company,131,96,2017,4
-107,BMW ,X7 M,118.75,31.897,Automatic,Petrol,Car Company,530,390,2021,7
-108,Hyundai ,KONA,15.49,77.264,Manual,Petrol,Car Company,120,88,2018,11
-109,Mercedes-Benz ,AMG GT,169.95,9.768,Automatic,Petrol,Car Company,585,430,2018,8
-110,Alpina ,D5,44.5,157.598,Automatic,Diesel,Car Company,387,285,2018,2
-111,Mercedes-Benz ,C 220,32.1,85.067,Automatic,Diesel,Car Company,194,143,2019,1
-112,BMW ,530,33.5,106.0,Automatic,Electric/Petrol,Car Company,252,185,2018,6
-113,BMW ,X5,99.995,7.239,Automatic,Electric/Petrol,Car Company,394,290,2022,4
-114,Porsche ,Boxster,32.0,89.0,Manual,Petrol,Car Company,256,188,2010,7
-115,MINI ,John Cooper Works Cabrio,12.49,93.0,Manual,Petrol,Car Company,211,155,2004,12
-116,Volkswagen ,T-Roc,24.95,32.233,Automatic,Petrol,Car Company,150,110,2019,12
-117,Aston Martin ,V8,64.95,36.1,Automatic,Petrol,Car Company,426,313,2009,3
-118,BMW ,X1,23.9,69.0,Automatic,Diesel,Car Company,136,100,2017,12
-119,Opel ,Astra,18.9,95.381,Manual,Petrol,Car Company,280,206,2013,3
-120,Porsche ,911,149.99,35.0,Automatic,Petrol,Car Company,560,412,2015,7
-121,Corvette ,Stingray,134.9,5.9,Automatic,Petrol,Car Company,481,354,2022,7
-122,Volkswagen ,Passat Variant,23.95,104.002,Automatic,Diesel,Car Company,150,110,2019,2
-123,Audi ,TT,30.2,31.583,Automatic,Petrol,Car Company,230,169,2015,4
-124,BMW ,X7,119.49,18.0,Automatic,Petrol,Car Company,530,390,2021,9
-125,BMW ,M5,74.9,49.957,Automatic,Petrol,Car Company,600,441,2019,2
-126,BMW ,M2,43.95,72.597,Automatic,Petrol,Car Company,370,272,2019,1
-127,MINI ,John Cooper Works,29.45,55.612,Automatic,Petrol,Car Company,231,170,2018,3
-128,Porsche ,911,184.95,27.3,Manual,Petrol,Car Company,500,368,2018,1
-129,Mercedes-Benz ,E 220,35.99,119.6,Automatic,Diesel,Car Company,194,143,2019,4
-130,Audi ,Q2,21.5,101.0,Automatic,Diesel,Car Company,116,85,2017,12
-131,Audi ,RS3,47.999,63.0,Automatic,Petrol,Car Company,400,294,2019,3
-132,BMW ,420,26.999,50.248,Automatic,Petrol,Car Company,163,120,2017,5
-133,Jaguar ,F-Type,90.9,0.0,Automatic,Petrol,Car Company,300,221,2022,1
-134,Jaguar ,F-Type,47.95,38.825,Automatic,Petrol,Car Company,340,250,2017,5
-135,Audi ,A8,139.899,7.5,Automatic,Electric/Petrol,Car Company,340,250,2022,7
-136,Porsche ,997,97.99,79.594,Automatic,Petrol,Car Company,521,383,2014,7
-137,BMW ,X7 M,119.49,18.0,Automatic,Petrol,Car Company,530,390,2021,9
-138,Ford ,Mustang,40.0,45.975,Manual,Petrol,Car Company,450,331,2020,1
-139,BMW ,316,18.499,112.0,Automatic,Diesel,Car Company,116,85,2018,1
-140,Audi ,A3,16.99,83.354,Manual,Diesel,Car Company,110,81,2016,5
-141,BMW ,Z4,19.9,145.0,Automatic,Petrol,Car Company,163,120,2013,6
-142,Ford ,Ranger,22.99,78.676,Manual,Diesel,Car Company,200,147,2015,7
-143,Volkswagen ,Golf,19.92,28.0,Manual,Petrol,Car Company,131,96,2019,10
-144,BMW ,420,31.8,88.098,Automatic,Diesel,Car Company,190,140,2018,5
-145,Maserati ,GranCabrio,61.99,104.0,Automatic,Petrol,Car Company,439,323,2010,9
-146,BMW ,420,26.9,97.0,Automatic,Diesel,Car Company,163,120,2016,8
-147,MINI ,Cooper,11.99,71.305,Automatic,Petrol,Car Company,122,90,2012,3
-148,Jaguar ,E-Pace,25.99,98.0,Manual,Diesel,Car Company,150,110,2019,5
-149,Jaguar ,F-Pace,28.49,52.5,Automatic,Diesel,Car Company,179,132,2016,9
-150,Audi ,A5,14.999,147.5,Automatic,Petrol,Car Company,179,132,2010,6
-151,BMW ,iX,126.9,21.312,Automatic,Electric,Car Company,525,386,2021,7
-152,Audi ,A3,17.499,84.0,Manual,Diesel,Car Company,110,81,2017,2
-153,Renault ,Espace,19.15,137.367,Automatic,Petrol,Car Company,200,147,2017,6
-154,BMW ,X5,79.99,44.0,Automatic,Electric/Petrol,Car Company,286,210,2020,12
-155,Tesla ,Model 3,48.7,15.243,Automatic,Electric,Car Company,334,246,2021,8
-156,BMW ,M5,96.9,23.6,Automatic,Petrol,Car Company,601,442,2021,5
-157,Mercedes-Benz ,B 180,20.95,70.8,Automatic,Petrol,Car Company,122,90,2018,1
-158,Alfa Romeo ,Giulia,59.995,0.0,Automatic,Petrol,Car Company,280,206,2022,4
-159,BMW ,M2,54.75,23.297,Automatic,Petrol,Car Company,411,302,2018,11
-160,Porsche ,991,78.95,97.0,Automatic,Petrol,Car Company,400,294,2012,9
-161,Renault ,Koleos,13.95,82.123,Manual,Diesel,Car Company,150,110,2013,7
-162,Jaguar ,F-Type,67.8,5.0,Automatic,Petrol,Car Company,300,221,2022,7
-163,Opel ,Adam,13.49,82.507,Manual,Petrol,Car Company,150,110,2017,5
-164,Mercedes-Benz ,GLA 200,16.999,138.8,Manual,Diesel,Car Company,136,100,2014,3
-165,Alfa Romeo ,Giulia,29.75,37.5,Automatic,Petrol,Car Company,200,147,2020,9
-166,Audi ,A4,23.499,115.0,Automatic,Diesel,Car Company,150,110,2016,9
-167,Ford ,S-Max,19.59,90.42,Manual,Diesel,Car Company,150,110,2017,3
-168,Land Rover ,Range Rover Sport,181.5,35.0,Automatic,Petrol,Car Company,575,423,2022,1
-169,Jeep ,Compass,18.99,45.151,Manual,Petrol,Car Company,140,103,2018,1
-170,Mazda ,3,29.958,0.0,Manual,Petrol,Car Company,186,137,2022,9
-171,BMW ,420,20.95,162.459,Automatic,Diesel,Car Company,184,135,2014,9
-172,Volkswagen ,T6 Caravelle,39.999,95.7,Automatic,Diesel,Car Company,150,110,2019,4
-173,Skoda ,Octavia,10.99,93.0,Manual,Petrol,Car Company,105,77,2015,1
-174,Mercedes-Benz ,AMG GT,229.95,5.384,Automatic,Petrol,Car Company,585,430,2021,2
-175,BMW ,216,17.49,112.0,Manual,Diesel,Car Company,116,85,2019,3
-176,Audi ,A4,23.9,96.0,Automatic,Diesel,Car Company,150,110,2017,8
-177,BMW ,i4,79.95,30.0,Automatic,Electric,Car Company,340,250,2022,10
-178,BMW ,216,14.95,98.0,Manual,Diesel,Car Company,116,85,2016,3
-179,Hyundai ,TUCSON,45.274,0.0,Automatic,Electric/Petrol,Car Company,230,169,2022,7
-180,BMW ,iX3,79.95,500.0,Automatic,Electric,Car Company,286,210,2022,8
-181,Audi ,S5,36.9,116.0,Automatic,Petrol,Car Company,354,260,2016,9
-182,Porsche ,991,75.991,139.538,Automatic,Petrol,Car Company,349,257,2013,7
-183,BMW ,X5,104.9,100.0,Automatic,Electric/Petrol,Car Company,394,290,2022,11
-184,Volkswagen ,Touareg,29.99,138.34,Automatic,Diesel,Car Company,262,193,2016,1
-185,Tesla ,Model 3,45.5,48.3,Automatic,Electric,Car Company,334,246,2021,3
-186,MINI ,Cooper S,28.5,12.82,Automatic,Petrol,Car Company,192,141,2020,8
-187,BMW ,530,34.99,86.198,Automatic,Electric/Petrol,Car Company,252,185,2018,3
-188,Volkswagen ,Golf,10.99,148.0,Manual,Diesel,Car Company,105,77,2015,1
-189,Audi ,A1,21.95,38.246,Manual,Petrol,Car Company,116,85,2019,3
-190,Volkswagen ,Golf Variant,10.45,128.0,Manual,Diesel,Car Company,105,77,2015,1
-191,BMW ,530,30.45,124.899,Automatic,Electric/Petrol,Car Company,252,185,2017,4
-192,Mercedes-Benz ,A 220,30.95,65.0,Automatic,Petrol,Car Company,190,140,2019,2
-193,Volkswagen ,Golf GTI,11.8,177.0,Manual,Petrol,Car Company,211,155,2011,3
-194,Volkswagen ,Golf Variant,13.799,132.3,Manual,Diesel,Car Company,116,85,2018,1
-195,Volkswagen ,Golf GTI,19.995,84.0,Manual,Petrol,Car Company,220,162,2014,4
-196,MINI ,John Cooper Works,44.95,19.0,Automatic,Petrol,Car Company,306,225,2020,9
-197,Alfa Romeo ,Giulietta,13.9,103.407,Manual,Petrol,Car Company,120,88,2017,10
-198,Jaguar ,F-Pace,97.2,12.862,Automatic,Petrol,Car Company,551,405,2022,1
-199,MINI ,One,11.5,126.431,Manual,Petrol,Car Company,75,55,2017,10
-200,Mercedes-Benz ,GLE 500,49.995,36.56,Automatic,Petrol,Car Company,333,245,2017,6
-201,Porsche ,911,195.9,9.226,Automatic,Petrol,Car Company,480,353,2022,3
-202,BMW ,2002,141.95,12.9,Manual,Petrol,Car Company,170,125,1974,5
-203,BMW ,318,22.49,53.324,Manual,Diesel,Car Company,150,110,2017,1
-204,BMW ,125,18.5,104.874,Automatic,Petrol,Car Company,218,160,2015,9
-205,Alfa Romeo ,Giulietta,13.9,52.439,Manual,Petrol,Car Company,120,88,2017,1
-206,Renault ,Arkana,31.9,1.377,Automatic,Electric/Petrol,Car Company,94,69,2021,11
-207,BMW ,850,73.9,40.721,Automatic,Petrol,Car Company,530,390,2019,7
-208,Volkswagen ,Golf GTI,18.9,104.722,Manual,Petrol,Car Company,230,169,2016,9
-209,BMW ,M850,77.9,35.0,Automatic,Petrol,Car Company,530,390,2019,3
-210,Mercedes-Benz ,S 400,62.99,29.0,Automatic,Petrol,Car Company,367,270,2016,9
-211,BMW ,M8,107.75,15.164,Automatic,Petrol,Car Company,601,442,2021,5
-212,Volkswagen ,Polo,7.95,75.736,Manual,Petrol,Car Company,60,44,2014,4
-213,Volkswagen ,Golf,37.25,12.142,Automatic,Petrol,Car Company,245,180,2020,2
-214,Mercedes-Benz ,E 200,13.49,117.669,Automatic,Diesel,Car Company,136,100,2010,5
-215,Volkswagen ,e-Golf,23.85,106.157,Automatic,Electric,Car Company,136,100,2018,4
-216,Abarth ,595C,27.385,1.0,Manual,Petrol,Car Company,165,121,2022,7
-217,Audi ,S4,46.99,28.38,Automatic,Petrol,Car Company,354,260,2017,7
-218,Audi ,Q2,21.99,55.0,Manual,Petrol,Car Company,150,110,2018,5
-219,Volkswagen ,Golf,12.99,97.198,Manual,Petrol,Car Company,86,63,2017,2
-220,BMW ,435,29.95,87.974,Automatic,Diesel,Car Company,313,230,2014,10
-221,BMW ,X3,37.495,79.5,Automatic,Diesel,Car Company,265,195,2018,7
-222,Mercedes-Benz ,C 220,13.4,94.281,Manual,Diesel,Car Company,163,120,2014,5
-223,BMW ,M3,47.99,145.0,Automatic,Petrol,Car Company,431,317,2014,12
-224,BMW ,Z3,7.39,188.07,Manual,Petrol,Car Company,116,85,1997,7
-225,Mercedes-Benz ,SLC 180,33.99,52.514,Automatic,Petrol,Car Company,156,115,2017,4
-226,Kia ,Stonic,13.45,90.769,Manual,Petrol,Car Company,101,74,2018,11
-227,Audi ,Q2,24.95,57.548,Automatic,Petrol,Car Company,150,110,2019,4
-228,Porsche ,Panamera,46.95,85.0,Automatic,Petrol,Car Company,333,245,2014,11
-229,BMW ,Z4,9.999,193.575,Automatic,Petrol,Car Company,231,170,2005,1
-230,BMW ,418,22.29,89.335,Automatic,Diesel,Car Company,150,110,2017,2
-231,BMW ,630,40.99,78.077,Automatic,Diesel,Car Company,265,195,2018,10
-232,Alfa Romeo ,Giulietta,15.5,100.243,Automatic,Petrol,Car Company,241,177,2015,11
-233,Ford ,F 150,42.9,115.0,Automatic,LPG,Car Company,370,272,2016,1
-234,BMW ,X3 M,48.45,59.0,Automatic,Petrol,Car Company,360,265,2018,6
-235,Mercedes-Benz ,GLC 220,32.75,118.326,Automatic,Diesel,Car Company,163,120,2017,7
-236,Porsche ,991,184.995,22.173,Manual,Petrol,Car Company,500,368,2018,5
-237,Land Rover ,Range Rover Velar,87.5,1.6,Automatic,Electric/Petrol,Car Company,404,297,2021,12
-238,BMW ,X2,25.99,65.0,Automatic,Diesel,Car Company,150,110,2018,6
-239,Audi ,R8,134.95,14.89,Automatic,Petrol,Car Company,540,397,2018,6
-240,MINI ,One,17.29,36.144,Manual,Petrol,Car Company,102,75,2019,1
-241,Jaguar ,F-Type,77.99,0.0,Automatic,Petrol,Car Company,300,221,2022,1
-242,Mercedes-Benz ,CLS 350,44.95,116.5,Automatic,Diesel,Car Company,286,210,2018,11
-243,MINI ,Cooper,15.49,68.0,Manual,Petrol,Car Company,136,100,2017,1
-244,Jaguar ,XJ,21.99,111.061,Automatic,Diesel,Car Company,275,202,2011,8
-245,Mercedes-Benz ,C 250,22.99,111.981,Automatic,Diesel,Car Company,204,150,2015,6
-246,SsangYong ,MUSSO,28.9,55.455,Automatic,Diesel,Car Company,181,133,2020,6
-247,SsangYong ,XLV,14.49,60.618,Manual,Petrol,Car Company,128,94,2019,1
-248,Audi ,RS4,69.9,57.0,Automatic,Petrol,Car Company,450,331,2019,5
-249,Audi ,A3,26.9,50.0,Automatic,Petrol,Car Company,150,110,2019,8
-250,BMW ,125,26.999,69.0,Automatic,Petrol,Car Company,224,165,2019,3
-251,Mercedes-Benz ,E 220,19.65,89.753,Manual,Diesel,Car Company,170,125,2013,7
-252,BMW ,116,15.99,118.111,Automatic,Diesel,Car Company,116,85,2016,1
-253,Volvo ,960,9.999,146.39,Automatic,Petrol,Car Company,204,150,1997,1
-254,Audi ,A3,34.95,13.353,Automatic,Petrol,Car Company,190,140,2020,1
-255,MINI ,Cooper S Cabrio,28.9,33.656,Automatic,Petrol,Car Company,192,141,2018,4
-256,Audi ,A4,19.599,79.0,Manual,Diesel,Car Company,122,90,2017,6
-257,Renault ,Megane,8.995,81.105,Manual,Petrol,Car Company,131,96,2011,3
-258,Audi ,A3,19.5,85.83,Manual,Diesel,Car Company,116,85,2019,4
-259,Renault ,Latitude,9.49,123.0,Manual,Diesel,Car Company,150,110,2013,1
-260,BMW ,220,23.995,56.0,Manual,Diesel,Car Company,190,140,2017,10
-261,Audi ,RS4,64.9,102.0,Automatic,Petrol,Car Company,450,331,2018,5
-262,Jaguar ,F-Type,66.5,10.0,Automatic,Petrol,Car Company,300,221,2022,1
-263,BMW ,225,20.7,92.524,Automatic,Electric/Petrol,Car Company,224,165,2017,5
-264,Mercedes-Benz ,CLA 180,15.75,139.0,Manual,Diesel,Car Company,109,80,2016,5
-265,Mercedes-Benz ,E 300,49.89,41.812,Automatic,Electric/Diesel,Car Company,194,143,2019,11
-266,BMW ,640,36.95,102.63,Automatic,Diesel,Car Company,313,230,2014,5
-267,SEAT ,Ateca,18.99,93.121,Manual,Petrol,Car Company,150,110,2018,5
-268,Audi ,A5,18.1,139.195,Manual,Diesel,Car Company,190,140,2015,5
-269,Land Rover ,Range Rover Sport,179.0,3.0,Automatic,Petrol,Car Company,575,423,2022,4
-270,Mercedes-Benz ,GLC 220,28.5,155.89,Automatic,Diesel,Car Company,170,125,2017,7
-271,Porsche ,911,189.9,2.0,Automatic,Petrol,Car Company,385,283,2022,6
-272,Audi ,SQ8,99.95,73.0,Automatic,Diesel,Car Company,435,320,2020,5
-273,Cupra ,Formentor,48.9,58.0,Automatic,Electric/Petrol,Car Company,150,110,2022,5
-274,BMW ,Z4 M,58.9,6.0,Automatic,Petrol,Car Company,340,250,2021,8
-275,Mercedes-Benz ,GLA 180,23.9,36.24,Manual,Diesel,Car Company,109,80,2017,2
-276,Audi ,A4,19.995,48.5,Manual,Diesel,Car Company,122,90,2016,9
-277,Mercedes-Benz ,V 250,46.99,82.005,Automatic,Diesel,Car Company,190,140,2017,8
-278,Porsche ,718 Spyder,119.718,10.85,Automatic,Petrol,Car Company,420,309,2021,5
-279,Mercedes-Benz ,E 220,34.9,125.0,Automatic,Diesel,Car Company,163,120,2018,10
-280,BMW ,218,25.75,83.988,Manual,Diesel,Car Company,150,110,2019,4
-281,MINI ,Cooper,31.5,22.213,Automatic,Electric,Car Company,184,135,2020,7
-282,Audi ,A3,32.9,22.015,Automatic,Electric/Petrol,Car Company,204,150,2020,5
-283,BMW ,118,28.99,38.664,Automatic,Diesel,Car Company,150,110,2020,12
-284,Kia ,XCeed,24.95,12.656,Manual,Petrol,Car Company,140,103,2021,4
-285,BMW ,530,57.9,3.058,Automatic,Electric/Petrol,Car Company,292,215,2021,12
-286,Mercedes-Benz ,GLC 250,31.99,128.0,Automatic,Diesel,Car Company,204,150,2018,2
-287,Land Rover ,Discovery,42.49,103.068,Automatic,Diesel,Car Company,258,190,2017,4
-288,Jaguar ,F-Pace,27.5,174.0,Automatic,Petrol,Car Company,340,250,2016,10
-289,BMW ,114,16.49,95.0,Manual,Diesel,Car Company,95,70,2018,4
-290,Porsche ,911,184.995,22.173,Manual,Petrol,Car Company,500,368,2018,5
-291,BMW ,Z4 M,61.45,8.024,Automatic,Petrol,Car Company,340,250,2021,12
-292,Mercedes-Benz ,CLA 250,43.9,32.879,Automatic,Electric/Petrol,Car Company,218,160,2020,11
-293,Mercedes-Benz ,V 200,42.99,134.485,Automatic,Diesel,Car Company,136,100,2017,9
-294,Audi ,A3,29.99,99.0,Automatic,Diesel,Car Company,150,110,2016,7
-295,Volkswagen ,Golf,27.395,64.8,Automatic,Petrol,Car Company,300,221,2016,2
-296,Volvo ,XC90,38.9,177.93,Automatic,Electric/Petrol,Car Company,408,300,2016,5
-297,Tesla ,Model Y,64.5,13.5,Automatic,Electric,Car Company,450,331,2022,1
-298,BMW ,116,29.95,15.29,Automatic,Petrol,Car Company,109,80,2021,1
-299,Volkswagen ,Scirocco,20.99,53.0,Manual,Petrol,Car Company,265,195,2010,11
-300,Audi ,SQ5,84.95,20.0,Automatic,Diesel,Car Company,341,251,2022,5
-301,Mercedes-Benz ,CLA 200,20.99,99.0,Automatic,Diesel,Car Company,136,100,2015,9
-302,Mercedes-Benz ,AMG GT,89.99,68.9,Automatic,Petrol,Car Company,367,270,2019,8
-303,Land Rover ,Discovery,88.9,15.0,Automatic,Petrol,Car Company,360,265,2022,1
-304,Opel ,Meriva,12.45,15.874,Manual,Petrol,Car Company,120,88,2017,8
-305,Volkswagen ,Arteon,27.49,69.0,Manual,Diesel,Car Company,150,110,2020,5
-306,Volkswagen ,Tiguan,24.99,29.193,Manual,Petrol,Car Company,150,110,2017,6
-307,BMW ,216,14.99,103.229,Manual,Diesel,Car Company,116,85,2017,9
-308,BMW ,430,33.8,42.766,Manual,Petrol,Car Company,252,185,2018,2
-309,Bentley ,Continental,250.0,27.359,Automatic,Petrol,Car Company,635,467,2019,6
-310,Volkswagen ,Golf,12.95,95.239,Manual,Petrol,Car Company,105,77,2014,12
-311,Peugeot ,308,20.39,61.504,Manual,Diesel,Car Company,131,96,2021,2
-312,BMW ,545,79.75,13.895,Automatic,Electric/Petrol,Car Company,394,290,2021,10
-313,BMW ,M5,178.9,3.3,Automatic,Petrol,Car Company,635,467,2022,7
-314,BMW ,i8,114.995,25.311,Automatic,Electric/Petrol,Car Company,231,170,2019,4
-315,BMW ,428,23.7,115.201,Automatic,Petrol,Car Company,245,180,2014,4
-316,Audi ,A1,19.99,82.936,Manual,Petrol,Car Company,116,85,2019,3
-317,Porsche ,Cayenne,89.99,69.613,Automatic,Petrol,Car Company,340,250,2019,11
-318,Lexus ,IS 300,28.795,51.547,Automatic,Petrol,Car Company,324,238,2019,1
-319,Toyota ,C-HR,20.49,53.626,Automatic,Electric/Petrol,Car Company,98,72,2017,2
-320,Porsche ,Boxster,67.99,14.183,Automatic,Petrol,Car Company,300,221,2019,7
-321,Audi ,Q3,29.99,80.68,Manual,Diesel,Car Company,150,110,2019,3
-322,Audi ,Q5,19.95,143.39,Manual,Diesel,Car Company,150,110,2016,12
-323,Citroen ,DS3,10.69,69.369,Manual,Petrol,Car Company,150,110,2015,3
-324,BMW ,118,26.49,52.664,Manual,Diesel,Car Company,150,110,2021,1
-325,Volkswagen ,Golf,23.0,86.142,Manual,Petrol,Car Company,220,162,2015,4
-326,Alfa Romeo ,Tonale,42.295,0.0,Automatic,Electric/Petrol,Car Company,131,96,2022,9
-327,BMW ,745,77.5,38.916,Automatic,Electric/Petrol,Car Company,286,210,2020,2
-328,BMW ,520,52.25,7.1,Automatic,Electric/Petrol,Car Company,204,150,2022,3
-329,Mercedes-Benz ,C 180,48.95,632.0,Automatic,Petrol,Car Company,156,115,2020,7
-330,MINI ,Cooper SD,23.95,39.643,Manual,Diesel,Car Company,170,125,2019,3
-331,Porsche ,992,139.911,8.0,Automatic,Petrol,Car Company,450,331,2019,8
-332,BMW ,640,36.95,82.2,Automatic,Diesel,Car Company,313,230,2013,5
-333,Audi ,Q5,27.95,69.756,Manual,Diesel,Car Company,136,100,2017,6
-334,Ford ,Ranger Raptor,52.9,43.965,Automatic,Diesel,Car Company,213,157,2020,1
-335,Volkswagen ,Tiguan,26.95,68.498,Automatic,Petrol,Car Company,150,110,2018,5
-336,Audi ,A6,33.99,83.346,Automatic,Petrol,Car Company,252,185,2018,4
-337,Jaguar ,E-Type,71.62,0.0,Automatic,Petrol,Car Company,300,221,2022,1
-338,Jaguar ,XE,25.5,21.59,Automatic,Petrol,Car Company,200,147,2018,4
-339,BMW ,850,116.9,8.1,Automatic,Petrol,Car Company,530,390,2021,10
-340,Jaguar ,F-Type,86.224,12.0,Automatic,Petrol,Car Company,300,221,2022,1
-341,Porsche ,Cayenne,78.9,30.0,Automatic,Petrol,Car Company,340,250,2018,8
-342,BMW ,420,22.75,99.0,Automatic,Diesel,Car Company,184,135,2014,2
-343,Peugeot ,508,26.5,54.0,Automatic,Petrol,Car Company,181,133,2019,7
-344,Mercedes-Benz ,GLC 220,33.0,102.0,Automatic,Diesel,Car Company,163,120,2017,8
-345,Alfa Romeo ,Giulia,27.995,40.122,Automatic,Diesel,Car Company,160,118,2020,7
-346,Audi ,A5,31.9,70.551,Automatic,Petrol,Car Company,190,140,2018,6
-347,Volkswagen ,Beetle,26.99,31.571,Automatic,Petrol,Car Company,220,162,2017,10
-348,BMW ,420,35.75,66.0,Automatic,Petrol,Car Company,184,135,2019,4
-349,BMW ,216,21.7,43.455,Automatic,Diesel,Car Company,116,85,2020,6
-350,Peugeot ,308,17.49,120.442,Manual,Petrol,Car Company,205,151,2016,4
-351,BMW ,X1,20.9,112.0,Manual,Diesel,Car Company,116,85,2018,11
-352,Porsche ,Cayman,49.9,89.98,Automatic,Petrol,Car Company,275,202,2013,2
-353,Audi ,RS5,54.995,67.36,Automatic,Petrol,Car Company,450,331,2017,12
-354,SEAT ,Tarraco,29.99,60.505,Manual,Diesel,Car Company,150,110,2020,4
-355,Skoda ,Karoq,26.3,30.0,Automatic,Petrol,Car Company,150,110,2018,11
-356,BMW ,318,27.8,85.0,Automatic,Diesel,Car Company,150,110,2019,9
-357,BMW ,X6 M,129.9,18.4,Automatic,Petrol,Car Company,624,459,2020,9
-358,Citroen ,C5,11.99,90.331,Manual,Diesel,Car Company,150,110,2016,3
-359,Alfa Romeo ,Stelvio,37.5,15.0,Automatic,Petrol,Car Company,200,147,2021,8
-360,Audi ,A6 allroad,21.99,180.0,Automatic,Diesel,Car Company,313,230,2013,11
-361,Skoda ,Superb,12.95,92.0,Automatic,Diesel,Car Company,140,103,2013,10
-362,BMW ,420,24.99,103.083,Automatic,Diesel,Car Company,184,135,2015,2
+0,Abarth,695C,30.95,0.0,Manual,Petrol,Car Company,165,121,2022,9
+1,Porsche,911,249.95,6.0,Automatic,Petrol,Car Company,480,353,2022,1
+2,Porsche,Cayman,102.99,9.155,Manual,Petrol,Car Company,420,309,2020,3
+3,Ford,Mustang,33.99,49.0,Manual,Petrol,Car Company,317,233,2019,5
+4,BMW,640,24.0,116.753,Automatic,Petrol,Car Company,320,235,2013,10
+5,Mercedes-Benz,AMG GT,94.75,71.189,Automatic,Petrol,Car Company,367,270,2019,1
+6,BMW,M5,59.99,121.73,Automatic,Petrol,Car Company,600,441,2018,8
+7,Porsche,Boxster,30.9,135.9,Automatic,Petrol,Car Company,295,217,2006,8
+8,Tesla,Model Y,66.8,17.5,Automatic,Electric,Car Company,514,378,2021,11
+9,Porsche,718,102.99,9.155,Manual,Petrol,Car Company,420,309,2020,3
+10,Audi,R8,69.95,53.981,Automatic,Petrol,Car Company,420,309,2007,9
+11,BMW,225,20.3,120.434,Automatic,Electric/Petrol,Car Company,224,165,2016,7
+12,Bentley,Continental,289.99,3.0,Automatic,Petrol,Car Company,551,405,2022,6
+13,Tesla,Model Y,59.95,22.412,Automatic,Electric,Car Company,514,378,2021,11
+14,Porsche,Boxster,26.6,93.651,Manual,Petrol,Car Company,211,155,2007,1
+15,Lexus,IS 300,27.45,43.754,Automatic,Electric/Petrol,Car Company,181,133,2018,3
+16,Fiat,500X,14.99,89.0,Manual,Diesel,Car Company,116,85,2015,5
+17,Jaguar,F-Type,69.4,15.0,Automatic,Petrol,Car Company,300,221,2022,1
+18,Volkswagen,Passat Variant,10.49,199.989,Manual,Diesel,Car Company,150,110,2015,4
+19,MINI,Cooper Countryman,24.2,115.767,Automatic,Electric/Petrol,Car Company,224,165,2019,1
+20,Mercedes-Benz,S 450,66.0,126.0,Automatic,Electric/Petrol,Car Company,367,270,2018,12
+21,BMW,425,23.5,121.538,Automatic,Diesel,Car Company,218,160,2015,6
+22,BMW,420,18.9,129.9,Manual,Petrol,Car Company,184,135,2016,9
+23,Jaguar,F-Type,112.9,0.0,Automatic,Petrol,Car Company,575,423,2022,1
+24,Porsche,911,97.99,79.594,Automatic,Petrol,Car Company,521,383,2014,7
+25,Audi,RS6,124.95,39.98,Automatic,Petrol,Car Company,600,441,2021,5
+26,Mercedes-Benz,S 560,99.995,148.679,Automatic,Petrol,Car Company,469,345,2018,5
+27,Alpine,A110,65.95,1.739,Automatic,Petrol,Car Company,252,185,2021,8
+28,BMW,M3,93.75,3.5,Automatic,Petrol,Car Company,510,375,2021,3
+29,BMW,M3,38.5,149.55,Manual,Petrol,Car Company,343,252,2002,3
+30,BMW,420,24.9,113.0,Automatic,Diesel,Car Company,184,135,2015,1
+31,Alfa Romeo,Giulia,34.49,25.0,Automatic,Petrol,Car Company,201,148,2021,1
+32,Porsche,911,169.95,21.528,Manual,Petrol,Car Company,500,368,2017,11
+33,Porsche,911,149.95,41.015,Automatic,Petrol,Car Company,450,331,2019,2
+34,Audi,TT,30.99,50.35,Automatic,Petrol,Car Company,230,169,2017,10
+35,Lamborghini,Aventador,219.95,41.0,Automatic,Petrol,Car Company,700,515,2013,4
+36,MG,Marvel R,53.867,0.0,Automatic,Electric,Car Company,302,222,2022,6
+37,Audi,RS6,74.9,89.0,Automatic,Petrol,Car Company,560,412,2016,1
+38,BMW,M3,95.0,7.5,Automatic,Petrol,Car Company,510,375,2021,11
+39,Ford,Focus,30.9,61.5,Manual,Petrol,Car Company,349,257,2017,2
+40,BMW,X1,7.99,189.135,Manual,Diesel,Car Company,136,100,2012,3
+41,Chevrolet,Camaro,89.95,1.136,Manual,Petrol,Car Company,349,257,1969,2
+42,Mercedes-Benz,GLE 63 AMG,78.0,79.0,Automatic,Petrol,Car Company,585,430,2018,7
+43,BMW,520,22.99,37.735,Automatic,Diesel,Car Company,184,135,2014,10
+44,Land Rover,Range Rover Sport,39.9,155.0,Automatic,Diesel,Car Company,340,250,2016,10
+45,Volkswagen,Golf GTE,21.2,114.37,Automatic,Electric/Petrol,Car Company,204,150,2017,10
+46,BMW,225,20.4,125.108,Automatic,Electric/Petrol,Car Company,224,165,2017,12
+47,Mercedes-Benz,E 63 AMG,77.9,50.0,Automatic,Petrol,Car Company,571,420,2019,2
+48,Bentley,Continental,129.99,53.747,Automatic,Petrol,Car Company,506,372,2017,4
+49,Audi,A3,10.999,201.5,Manual,Petrol,Car Company,110,81,2015,3
+50,Audi,R8,79.95,85.446,Manual,Petrol,Car Company,430,316,2011,6
+51,BMW,125,20.2,85.19,Manual,Petrol,Car Company,218,160,2016,8
+52,Audi,A4,13.95,140.217,Manual,Diesel,Car Company,136,100,2015,4
+53,Renault,Trafic,39.9,7.0,Manual,Diesel,Car Company,150,110,2022,6
+54,Bentley,Flying Spur,114.99,68.5,Automatic,Petrol,Car Company,528,388,2018,6
+55,Porsche,718,117.718,974.0,Manual,Petrol,Car Company,420,309,2020,10
+56,BMW,M2,62.0,8.351,Automatic,Petrol,Car Company,411,302,2020,3
+57,Porsche,991,184.95,18.0,Manual,Petrol,Car Company,500,368,2018,3
+58,Fiat,500 Abarth,15.99,31.022,Manual,Petrol,Car Company,179,132,2016,5
+59,BMW,640,33.99,59.711,Automatic,Diesel,Car Company,313,230,2013,7
+60,Audi,RS4,76.99,38.0,Automatic,Petrol,Car Company,450,331,2020,11
+61,BMW,i4,103.9,6.001,Automatic,Electric,Car Company,544,400,2022,6
+62,Mercedes-Benz,AMG GT,94.995,34.7,Automatic,Petrol,Car Company,367,270,2020,5
+63,Land Rover,Defender,99.95,7.8,Automatic,Petrol,Car Company,400,294,2022,8
+64,BMW,530,37.95,108.047,Automatic,Electric/Petrol,Car Company,184,135,2020,1
+65,Audi,A3,12.95,135.0,Manual,Petrol,Car Company,160,118,2011,8
+66,BMW,520,11.5,154.867,Manual,Diesel,Car Company,163,120,2010,11
+67,Jeep,Wrangler,24.995,122.0,Manual,Diesel,Car Company,200,147,2011,1
+68,Porsche,Panamera,35.99,104.345,Automatic,Diesel,Car Company,250,184,2011,7
+69,Volkswagen,Golf Sportsvan,18.95,61.507,Manual,Diesel,Car Company,150,110,2017,12
+70,MINI,One,13.99,63.492,Manual,Petrol,Car Company,75,55,2018,2
+71,Audi,TT,27.2,74.224,Manual,Diesel,Car Company,184,135,2016,8
+72,Bentley,Continental,75.399,94.62,Automatic,Petrol,Car Company,507,373,2013,3
+73,Porsche,911,154.95,17.262,Automatic,Petrol,Car Company,450,331,2021,1
+74,Ford,Focus,21.89,27.219,Manual,Petrol,Car Company,250,184,2017,11
+75,Hyundai,KONA,18.79,56.685,Automatic,Diesel,Car Company,136,100,2019,4
+76,Audi,TT,25.9,47.26,Manual,Diesel,Car Company,184,135,2015,10
+77,BMW,730,40.95,109.468,Automatic,Diesel,Car Company,265,195,2018,1
+78,Porsche,911,95.0,16.0,Automatic,Petrol,Car Company,349,257,2016,1
+79,BMW,X5,34.75,184.465,Automatic,Electric/Petrol,Car Company,245,180,2017,3
+80,Lexus,IS F,32.999,72.0,Automatic,Petrol,Car Company,420,309,2008,5
+81,Mercedes-Benz,GLE 500,49.995,36.56,Automatic,Electric/Petrol,Car Company,333,245,2017,6
+82,Audi,TT RS,61.9,15.321,Automatic,Petrol,Car Company,400,294,2017,1
+83,BMW,M3,69.995,43.5,Automatic,Petrol,Car Company,450,331,2016,11
+84,Volkswagen,Polo GTI,28.97,1.242,Automatic,Petrol,Car Company,207,152,2022,8
+85,Jaguar,F-Type,84.8,3.0,Automatic,Petrol,Car Company,300,221,2022,9
+86,Volkswagen,Tiguan,20.99,33.809,Automatic,Electric/Petrol,Car Company,150,110,2015,6
+87,Jaguar,F-Type,61.46,0.0,Automatic,Petrol,Car Company,300,221,2022,1
+88,Mercedes-Benz,S 300,39.99,181.85,Automatic,Electric/Diesel,Car Company,204,150,2014,10
+89,Mercedes-Benz,SLK 250,19.95,143.759,Automatic,Diesel,Car Company,204,150,2012,9
+90,Audi,A7,30.99,130.833,Automatic,Diesel,Car Company,272,200,2016,11
+91,Ford,Mustang,39.995,22.67,Automatic,Petrol,Car Company,290,213,2018,6
+92,Mercedes-Benz,CLS 400,57.95,73.0,Automatic,Diesel,Car Company,340,250,2018,11
+93,Mercedes-Benz,GLC 220,36.99,116.5,Automatic,Diesel,Car Company,163,120,2019,1
+94,MINI,Cooper D Clubman,8.95,119.0,Manual,Diesel,Car Company,111,82,2011,9
+95,Mercedes-Benz,GLC 350,41.999,109.0,Automatic,Electric/Petrol,Car Company,211,155,2017,3
+96,BMW,218,19.99,105.0,Automatic,Diesel,Car Company,136,100,2018,7
+97,Audi,RS Q3,69.9,21.0,Automatic,Petrol,Car Company,400,294,2021,1
+98,Audi,RS4,69.9,41.657,Automatic,Petrol,Car Company,450,331,2019,8
+99,Jaguar,F-Pace,97.5,5.0,Automatic,Petrol,Car Company,551,405,2022,7
+100,Alfa Romeo,Stelvio,26.45,117.908,Automatic,Diesel,Car Company,150,110,2018,8
+101,Audi,RS6,149.5,19.0,Automatic,Petrol,Car Company,600,441,2022,1
+102,Mercedes-Benz,GLE 350,79.99,66.724,Automatic,Electric/Diesel,Car Company,320,235,2021,6
+103,Land Rover,Discovery Sport,35.95,93.5,Automatic,Electric/Diesel,Car Company,179,132,2020,9
+104,Bentley,Continental,109.9,46.242,Automatic,Petrol,Car Company,528,388,2017,6
+105,Audi,A4 allroad,22.99,67.874,Manual,Diesel,Car Company,150,110,2016,2
+106,Citroen,C4,12.49,64.362,Manual,Petrol,Car Company,131,96,2017,4
+107,BMW,X7 M,118.75,31.897,Automatic,Petrol,Car Company,530,390,2021,7
+108,Hyundai,KONA,15.49,77.264,Manual,Petrol,Car Company,120,88,2018,11
+109,Mercedes-Benz,AMG GT,169.95,9.768,Automatic,Petrol,Car Company,585,430,2018,8
+110,Alpina,D5,44.5,157.598,Automatic,Diesel,Car Company,387,285,2018,2
+111,Mercedes-Benz,C 220,32.1,85.067,Automatic,Diesel,Car Company,194,143,2019,1
+112,BMW,530,33.5,106.0,Automatic,Electric/Petrol,Car Company,252,185,2018,6
+113,BMW,X5,99.995,7.239,Automatic,Electric/Petrol,Car Company,394,290,2022,4
+114,Porsche,Boxster,32.0,89.0,Manual,Petrol,Car Company,256,188,2010,7
+115,MINI,John Cooper Works Cabrio,12.49,93.0,Manual,Petrol,Car Company,211,155,2004,12
+116,Volkswagen,T-Roc,24.95,32.233,Automatic,Petrol,Car Company,150,110,2019,12
+117,Aston Martin,V8,64.95,36.1,Automatic,Petrol,Car Company,426,313,2009,3
+118,BMW,X1,23.9,69.0,Automatic,Diesel,Car Company,136,100,2017,12
+119,Opel,Astra,18.9,95.381,Manual,Petrol,Car Company,280,206,2013,3
+120,Porsche,911,149.99,35.0,Automatic,Petrol,Car Company,560,412,2015,7
+121,Corvette,Stingray,134.9,5.9,Automatic,Petrol,Car Company,481,354,2022,7
+122,Volkswagen,Passat Variant,23.95,104.002,Automatic,Diesel,Car Company,150,110,2019,2
+123,Audi,TT,30.2,31.583,Automatic,Petrol,Car Company,230,169,2015,4
+124,BMW,X7,119.49,18.0,Automatic,Petrol,Car Company,530,390,2021,9
+125,BMW,M5,74.9,49.957,Automatic,Petrol,Car Company,600,441,2019,2
+126,BMW,M2,43.95,72.597,Automatic,Petrol,Car Company,370,272,2019,1
+127,MINI,John Cooper Works,29.45,55.612,Automatic,Petrol,Car Company,231,170,2018,3
+128,Porsche,911,184.95,27.3,Manual,Petrol,Car Company,500,368,2018,1
+129,Mercedes-Benz,E 220,35.99,119.6,Automatic,Diesel,Car Company,194,143,2019,4
+130,Audi,Q2,21.5,101.0,Automatic,Diesel,Car Company,116,85,2017,12
+131,Audi,RS3,47.999,63.0,Automatic,Petrol,Car Company,400,294,2019,3
+132,BMW,420,26.999,50.248,Automatic,Petrol,Car Company,163,120,2017,5
+133,Jaguar,F-Type,90.9,0.0,Automatic,Petrol,Car Company,300,221,2022,1
+134,Jaguar,F-Type,47.95,38.825,Automatic,Petrol,Car Company,340,250,2017,5
+135,Audi,A8,139.899,7.5,Automatic,Electric/Petrol,Car Company,340,250,2022,7
+136,Porsche,997,97.99,79.594,Automatic,Petrol,Car Company,521,383,2014,7
+137,BMW,X7 M,119.49,18.0,Automatic,Petrol,Car Company,530,390,2021,9
+138,Ford,Mustang,40.0,45.975,Manual,Petrol,Car Company,450,331,2020,1
+139,BMW,316,18.499,112.0,Automatic,Diesel,Car Company,116,85,2018,1
+140,Audi,A3,16.99,83.354,Manual,Diesel,Car Company,110,81,2016,5
+141,BMW,Z4,19.9,145.0,Automatic,Petrol,Car Company,163,120,2013,6
+142,Ford,Ranger,22.99,78.676,Manual,Diesel,Car Company,200,147,2015,7
+143,Volkswagen,Golf,19.92,28.0,Manual,Petrol,Car Company,131,96,2019,10
+144,BMW,420,31.8,88.098,Automatic,Diesel,Car Company,190,140,2018,5
+145,Maserati,GranCabrio,61.99,104.0,Automatic,Petrol,Car Company,439,323,2010,9
+146,BMW,420,26.9,97.0,Automatic,Diesel,Car Company,163,120,2016,8
+147,MINI,Cooper,11.99,71.305,Automatic,Petrol,Car Company,122,90,2012,3
+148,Jaguar,E-Pace,25.99,98.0,Manual,Diesel,Car Company,150,110,2019,5
+149,Jaguar,F-Pace,28.49,52.5,Automatic,Diesel,Car Company,179,132,2016,9
+150,Audi,A5,14.999,147.5,Automatic,Petrol,Car Company,179,132,2010,6
+151,BMW,iX,126.9,21.312,Automatic,Electric,Car Company,525,386,2021,7
+152,Audi,A3,17.499,84.0,Manual,Diesel,Car Company,110,81,2017,2
+153,Renault,Espace,19.15,137.367,Automatic,Petrol,Car Company,200,147,2017,6
+154,BMW,X5,79.99,44.0,Automatic,Electric/Petrol,Car Company,286,210,2020,12
+155,Tesla,Model 3,48.7,15.243,Automatic,Electric,Car Company,334,246,2021,8
+156,BMW,M5,96.9,23.6,Automatic,Petrol,Car Company,601,442,2021,5
+157,Mercedes-Benz,B 180,20.95,70.8,Automatic,Petrol,Car Company,122,90,2018,1
+158,Alfa Romeo,Giulia,59.995,0.0,Automatic,Petrol,Car Company,280,206,2022,4
+159,BMW,M2,54.75,23.297,Automatic,Petrol,Car Company,411,302,2018,11
+160,Porsche,991,78.95,97.0,Automatic,Petrol,Car Company,400,294,2012,9
+161,Renault,Koleos,13.95,82.123,Manual,Diesel,Car Company,150,110,2013,7
+162,Jaguar,F-Type,67.8,5.0,Automatic,Petrol,Car Company,300,221,2022,7
+163,Opel,Adam,13.49,82.507,Manual,Petrol,Car Company,150,110,2017,5
+164,Mercedes-Benz,GLA 200,16.999,138.8,Manual,Diesel,Car Company,136,100,2014,3
+165,Alfa Romeo,Giulia,29.75,37.5,Automatic,Petrol,Car Company,200,147,2020,9
+166,Audi,A4,23.499,115.0,Automatic,Diesel,Car Company,150,110,2016,9
+167,Ford,S-Max,19.59,90.42,Manual,Diesel,Car Company,150,110,2017,3
+168,Land Rover,Range Rover Sport,181.5,35.0,Automatic,Petrol,Car Company,575,423,2022,1
+169,Jeep,Compass,18.99,45.151,Manual,Petrol,Car Company,140,103,2018,1
+170,Mazda,3,29.958,0.0,Manual,Petrol,Car Company,186,137,2022,9
+171,BMW,420,20.95,162.459,Automatic,Diesel,Car Company,184,135,2014,9
+172,Volkswagen,T6 Caravelle,39.999,95.7,Automatic,Diesel,Car Company,150,110,2019,4
+173,Skoda,Octavia,10.99,93.0,Manual,Petrol,Car Company,105,77,2015,1
+174,Mercedes-Benz,AMG GT,229.95,5.384,Automatic,Petrol,Car Company,585,430,2021,2
+175,BMW,216,17.49,112.0,Manual,Diesel,Car Company,116,85,2019,3
+176,Audi,A4,23.9,96.0,Automatic,Diesel,Car Company,150,110,2017,8
+177,BMW,i4,79.95,30.0,Automatic,Electric,Car Company,340,250,2022,10
+178,BMW,216,14.95,98.0,Manual,Diesel,Car Company,116,85,2016,3
+179,Hyundai,TUCSON,45.274,0.0,Automatic,Electric/Petrol,Car Company,230,169,2022,7
+180,BMW,iX3,79.95,500.0,Automatic,Electric,Car Company,286,210,2022,8
+181,Audi,S5,36.9,116.0,Automatic,Petrol,Car Company,354,260,2016,9
+182,Porsche,991,75.991,139.538,Automatic,Petrol,Car Company,349,257,2013,7
+183,BMW,X5,104.9,100.0,Automatic,Electric/Petrol,Car Company,394,290,2022,11
+184,Volkswagen,Touareg,29.99,138.34,Automatic,Diesel,Car Company,262,193,2016,1
+185,Tesla,Model 3,45.5,48.3,Automatic,Electric,Car Company,334,246,2021,3
+186,MINI,Cooper S,28.5,12.82,Automatic,Petrol,Car Company,192,141,2020,8
+187,BMW,530,34.99,86.198,Automatic,Electric/Petrol,Car Company,252,185,2018,3
+188,Volkswagen,Golf,10.99,148.0,Manual,Diesel,Car Company,105,77,2015,1
+189,Audi,A1,21.95,38.246,Manual,Petrol,Car Company,116,85,2019,3
+190,Volkswagen,Golf Variant,10.45,128.0,Manual,Diesel,Car Company,105,77,2015,1
+191,BMW,530,30.45,124.899,Automatic,Electric/Petrol,Car Company,252,185,2017,4
+192,Mercedes-Benz,A 220,30.95,65.0,Automatic,Petrol,Car Company,190,140,2019,2
+193,Volkswagen,Golf GTI,11.8,177.0,Manual,Petrol,Car Company,211,155,2011,3
+194,Volkswagen,Golf Variant,13.799,132.3,Manual,Diesel,Car Company,116,85,2018,1
+195,Volkswagen,Golf GTI,19.995,84.0,Manual,Petrol,Car Company,220,162,2014,4
+196,MINI,John Cooper Works,44.95,19.0,Automatic,Petrol,Car Company,306,225,2020,9
+197,Alfa Romeo,Giulietta,13.9,103.407,Manual,Petrol,Car Company,120,88,2017,10
+198,Jaguar,F-Pace,97.2,12.862,Automatic,Petrol,Car Company,551,405,2022,1
+199,MINI,One,11.5,126.431,Manual,Petrol,Car Company,75,55,2017,10
+200,Mercedes-Benz,GLE 500,49.995,36.56,Automatic,Petrol,Car Company,333,245,2017,6
+201,Porsche,911,195.9,9.226,Automatic,Petrol,Car Company,480,353,2022,3
+202,BMW,2002,141.95,12.9,Manual,Petrol,Car Company,170,125,1974,5
+203,BMW,318,22.49,53.324,Manual,Diesel,Car Company,150,110,2017,1
+204,BMW,125,18.5,104.874,Automatic,Petrol,Car Company,218,160,2015,9
+205,Alfa Romeo,Giulietta,13.9,52.439,Manual,Petrol,Car Company,120,88,2017,1
+206,Renault,Arkana,31.9,1.377,Automatic,Electric/Petrol,Car Company,94,69,2021,11
+207,BMW,850,73.9,40.721,Automatic,Petrol,Car Company,530,390,2019,7
+208,Volkswagen,Golf GTI,18.9,104.722,Manual,Petrol,Car Company,230,169,2016,9
+209,BMW,M850,77.9,35.0,Automatic,Petrol,Car Company,530,390,2019,3
+210,Mercedes-Benz,S 400,62.99,29.0,Automatic,Petrol,Car Company,367,270,2016,9
+211,BMW,M8,107.75,15.164,Automatic,Petrol,Car Company,601,442,2021,5
+212,Volkswagen,Polo,7.95,75.736,Manual,Petrol,Car Company,60,44,2014,4
+213,Volkswagen,Golf,37.25,12.142,Automatic,Petrol,Car Company,245,180,2020,2
+214,Mercedes-Benz,E 200,13.49,117.669,Automatic,Diesel,Car Company,136,100,2010,5
+215,Volkswagen,e-Golf,23.85,106.157,Automatic,Electric,Car Company,136,100,2018,4
+216,Abarth,595C,27.385,1.0,Manual,Petrol,Car Company,165,121,2022,7
+217,Audi,S4,46.99,28.38,Automatic,Petrol,Car Company,354,260,2017,7
+218,Audi,Q2,21.99,55.0,Manual,Petrol,Car Company,150,110,2018,5
+219,Volkswagen,Golf,12.99,97.198,Manual,Petrol,Car Company,86,63,2017,2
+220,BMW,435,29.95,87.974,Automatic,Diesel,Car Company,313,230,2014,10
+221,BMW,X3,37.495,79.5,Automatic,Diesel,Car Company,265,195,2018,7
+222,Mercedes-Benz,C 220,13.4,94.281,Manual,Diesel,Car Company,163,120,2014,5
+223,BMW,M3,47.99,145.0,Automatic,Petrol,Car Company,431,317,2014,12
+224,BMW,Z3,7.39,188.07,Manual,Petrol,Car Company,116,85,1997,7
+225,Mercedes-Benz,SLC 180,33.99,52.514,Automatic,Petrol,Car Company,156,115,2017,4
+226,Kia,Stonic,13.45,90.769,Manual,Petrol,Car Company,101,74,2018,11
+227,Audi,Q2,24.95,57.548,Automatic,Petrol,Car Company,150,110,2019,4
+228,Porsche,Panamera,46.95,85.0,Automatic,Petrol,Car Company,333,245,2014,11
+229,BMW,Z4,9.999,193.575,Automatic,Petrol,Car Company,231,170,2005,1
+230,BMW,418,22.29,89.335,Automatic,Diesel,Car Company,150,110,2017,2
+231,BMW,630,40.99,78.077,Automatic,Diesel,Car Company,265,195,2018,10
+232,Alfa Romeo,Giulietta,15.5,100.243,Automatic,Petrol,Car Company,241,177,2015,11
+233,Ford,F 150,42.9,115.0,Automatic,LPG,Car Company,370,272,2016,1
+234,BMW,X3 M,48.45,59.0,Automatic,Petrol,Car Company,360,265,2018,6
+235,Mercedes-Benz,GLC 220,32.75,118.326,Automatic,Diesel,Car Company,163,120,2017,7
+236,Porsche,991,184.995,22.173,Manual,Petrol,Car Company,500,368,2018,5
+237,Land Rover,Range Rover Velar,87.5,1.6,Automatic,Electric/Petrol,Car Company,404,297,2021,12
+238,BMW,X2,25.99,65.0,Automatic,Diesel,Car Company,150,110,2018,6
+239,Audi,R8,134.95,14.89,Automatic,Petrol,Car Company,540,397,2018,6
+240,MINI,One,17.29,36.144,Manual,Petrol,Car Company,102,75,2019,1
+241,Jaguar,F-Type,77.99,0.0,Automatic,Petrol,Car Company,300,221,2022,1
+242,Mercedes-Benz,CLS 350,44.95,116.5,Automatic,Diesel,Car Company,286,210,2018,11
+243,MINI,Cooper,15.49,68.0,Manual,Petrol,Car Company,136,100,2017,1
+244,Jaguar,XJ,21.99,111.061,Automatic,Diesel,Car Company,275,202,2011,8
+245,Mercedes-Benz,C 250,22.99,111.981,Automatic,Diesel,Car Company,204,150,2015,6
+246,SsangYong,MUSSO,28.9,55.455,Automatic,Diesel,Car Company,181,133,2020,6
+247,SsangYong,XLV,14.49,60.618,Manual,Petrol,Car Company,128,94,2019,1
+248,Audi,RS4,69.9,57.0,Automatic,Petrol,Car Company,450,331,2019,5
+249,Audi,A3,26.9,50.0,Automatic,Petrol,Car Company,150,110,2019,8
+250,BMW,125,26.999,69.0,Automatic,Petrol,Car Company,224,165,2019,3
+251,Mercedes-Benz,E 220,19.65,89.753,Manual,Diesel,Car Company,170,125,2013,7
+252,BMW,116,15.99,118.111,Automatic,Diesel,Car Company,116,85,2016,1
+253,Volvo,960,9.999,146.39,Automatic,Petrol,Car Company,204,150,1997,1
+254,Audi,A3,34.95,13.353,Automatic,Petrol,Car Company,190,140,2020,1
+255,MINI,Cooper S Cabrio,28.9,33.656,Automatic,Petrol,Car Company,192,141,2018,4
+256,Audi,A4,19.599,79.0,Manual,Diesel,Car Company,122,90,2017,6
+257,Renault,Megane,8.995,81.105,Manual,Petrol,Car Company,131,96,2011,3
+258,Audi,A3,19.5,85.83,Manual,Diesel,Car Company,116,85,2019,4
+259,Renault,Latitude,9.49,123.0,Manual,Diesel,Car Company,150,110,2013,1
+260,BMW,220,23.995,56.0,Manual,Diesel,Car Company,190,140,2017,10
+261,Audi,RS4,64.9,102.0,Automatic,Petrol,Car Company,450,331,2018,5
+262,Jaguar,F-Type,66.5,10.0,Automatic,Petrol,Car Company,300,221,2022,1
+263,BMW,225,20.7,92.524,Automatic,Electric/Petrol,Car Company,224,165,2017,5
+264,Mercedes-Benz,CLA 180,15.75,139.0,Manual,Diesel,Car Company,109,80,2016,5
+265,Mercedes-Benz,E 300,49.89,41.812,Automatic,Electric/Diesel,Car Company,194,143,2019,11
+266,BMW,640,36.95,102.63,Automatic,Diesel,Car Company,313,230,2014,5
+267,SEAT,Ateca,18.99,93.121,Manual,Petrol,Car Company,150,110,2018,5
+268,Audi,A5,18.1,139.195,Manual,Diesel,Car Company,190,140,2015,5
+269,Land Rover,Range Rover Sport,179.0,3.0,Automatic,Petrol,Car Company,575,423,2022,4
+270,Mercedes-Benz,GLC 220,28.5,155.89,Automatic,Diesel,Car Company,170,125,2017,7
+271,Porsche,911,189.9,2.0,Automatic,Petrol,Car Company,385,283,2022,6
+272,Audi,SQ8,99.95,73.0,Automatic,Diesel,Car Company,435,320,2020,5
+273,Cupra,Formentor,48.9,58.0,Automatic,Electric/Petrol,Car Company,150,110,2022,5
+274,BMW,Z4 M,58.9,6.0,Automatic,Petrol,Car Company,340,250,2021,8
+275,Mercedes-Benz,GLA 180,23.9,36.24,Manual,Diesel,Car Company,109,80,2017,2
+276,Audi,A4,19.995,48.5,Manual,Diesel,Car Company,122,90,2016,9
+277,Mercedes-Benz,V 250,46.99,82.005,Automatic,Diesel,Car Company,190,140,2017,8
+278,Porsche,718 Spyder,119.718,10.85,Automatic,Petrol,Car Company,420,309,2021,5
+279,Mercedes-Benz,E 220,34.9,125.0,Automatic,Diesel,Car Company,163,120,2018,10
+280,BMW,218,25.75,83.988,Manual,Diesel,Car Company,150,110,2019,4
+281,MINI,Cooper,31.5,22.213,Automatic,Electric,Car Company,184,135,2020,7
+282,Audi,A3,32.9,22.015,Automatic,Electric/Petrol,Car Company,204,150,2020,5
+283,BMW,118,28.99,38.664,Automatic,Diesel,Car Company,150,110,2020,12
+284,Kia,XCeed,24.95,12.656,Manual,Petrol,Car Company,140,103,2021,4
+285,BMW,530,57.9,3.058,Automatic,Electric/Petrol,Car Company,292,215,2021,12
+286,Mercedes-Benz,GLC 250,31.99,128.0,Automatic,Diesel,Car Company,204,150,2018,2
+287,Land Rover,Discovery,42.49,103.068,Automatic,Diesel,Car Company,258,190,2017,4
+288,Jaguar,F-Pace,27.5,174.0,Automatic,Petrol,Car Company,340,250,2016,10
+289,BMW,114,16.49,95.0,Manual,Diesel,Car Company,95,70,2018,4
+290,Porsche,911,184.995,22.173,Manual,Petrol,Car Company,500,368,2018,5
+291,BMW,Z4 M,61.45,8.024,Automatic,Petrol,Car Company,340,250,2021,12
+292,Mercedes-Benz,CLA 250,43.9,32.879,Automatic,Electric/Petrol,Car Company,218,160,2020,11
+293,Mercedes-Benz,V 200,42.99,134.485,Automatic,Diesel,Car Company,136,100,2017,9
+294,Audi,A3,29.99,99.0,Automatic,Diesel,Car Company,150,110,2016,7
+295,Volkswagen,Golf,27.395,64.8,Automatic,Petrol,Car Company,300,221,2016,2
+296,Volvo,XC90,38.9,177.93,Automatic,Electric/Petrol,Car Company,408,300,2016,5
+297,Tesla,Model Y,64.5,13.5,Automatic,Electric,Car Company,450,331,2022,1
+298,BMW,116,29.95,15.29,Automatic,Petrol,Car Company,109,80,2021,1
+299,Volkswagen,Scirocco,20.99,53.0,Manual,Petrol,Car Company,265,195,2010,11
+300,Audi,SQ5,84.95,20.0,Automatic,Diesel,Car Company,341,251,2022,5
+301,Mercedes-Benz,CLA 200,20.99,99.0,Automatic,Diesel,Car Company,136,100,2015,9
+302,Mercedes-Benz,AMG GT,89.99,68.9,Automatic,Petrol,Car Company,367,270,2019,8
+303,Land Rover,Discovery,88.9,15.0,Automatic,Petrol,Car Company,360,265,2022,1
+304,Opel,Meriva,12.45,15.874,Manual,Petrol,Car Company,120,88,2017,8
+305,Volkswagen,Arteon,27.49,69.0,Manual,Diesel,Car Company,150,110,2020,5
+306,Volkswagen,Tiguan,24.99,29.193,Manual,Petrol,Car Company,150,110,2017,6
+307,BMW,216,14.99,103.229,Manual,Diesel,Car Company,116,85,2017,9
+308,BMW,430,33.8,42.766,Manual,Petrol,Car Company,252,185,2018,2
+309,Bentley,Continental,250.0,27.359,Automatic,Petrol,Car Company,635,467,2019,6
+310,Volkswagen,Golf,12.95,95.239,Manual,Petrol,Car Company,105,77,2014,12
+311,Peugeot,308,20.39,61.504,Manual,Diesel,Car Company,131,96,2021,2
+312,BMW,545,79.75,13.895,Automatic,Electric/Petrol,Car Company,394,290,2021,10
+313,BMW,M5,178.9,3.3,Automatic,Petrol,Car Company,635,467,2022,7
+314,BMW,i8,114.995,25.311,Automatic,Electric/Petrol,Car Company,231,170,2019,4
+315,BMW,428,23.7,115.201,Automatic,Petrol,Car Company,245,180,2014,4
+316,Audi,A1,19.99,82.936,Manual,Petrol,Car Company,116,85,2019,3
+317,Porsche,Cayenne,89.99,69.613,Automatic,Petrol,Car Company,340,250,2019,11
+318,Lexus,IS 300,28.795,51.547,Automatic,Petrol,Car Company,324,238,2019,1
+319,Toyota,C-HR,20.49,53.626,Automatic,Electric/Petrol,Car Company,98,72,2017,2
+320,Porsche,Boxster,67.99,14.183,Automatic,Petrol,Car Company,300,221,2019,7
+321,Audi,Q3,29.99,80.68,Manual,Diesel,Car Company,150,110,2019,3
+322,Audi,Q5,19.95,143.39,Manual,Diesel,Car Company,150,110,2016,12
+323,Citroen,DS3,10.69,69.369,Manual,Petrol,Car Company,150,110,2015,3
+324,BMW,118,26.49,52.664,Manual,Diesel,Car Company,150,110,2021,1
+325,Volkswagen,Golf,23.0,86.142,Manual,Petrol,Car Company,220,162,2015,4
+326,Alfa Romeo,Tonale,42.295,0.0,Automatic,Electric/Petrol,Car Company,131,96,2022,9
+327,BMW,745,77.5,38.916,Automatic,Electric/Petrol,Car Company,286,210,2020,2
+328,BMW,520,52.25,7.1,Automatic,Electric/Petrol,Car Company,204,150,2022,3
+329,Mercedes-Benz,C 180,48.95,632.0,Automatic,Petrol,Car Company,156,115,2020,7
+330,MINI,Cooper SD,23.95,39.643,Manual,Diesel,Car Company,170,125,2019,3
+331,Porsche,992,139.911,8.0,Automatic,Petrol,Car Company,450,331,2019,8
+332,BMW,640,36.95,82.2,Automatic,Diesel,Car Company,313,230,2013,5
+333,Audi,Q5,27.95,69.756,Manual,Diesel,Car Company,136,100,2017,6
+334,Ford,Ranger Raptor,52.9,43.965,Automatic,Diesel,Car Company,213,157,2020,1
+335,Volkswagen,Tiguan,26.95,68.498,Automatic,Petrol,Car Company,150,110,2018,5
+336,Audi,A6,33.99,83.346,Automatic,Petrol,Car Company,252,185,2018,4
+337,Jaguar,E-Type,71.62,0.0,Automatic,Petrol,Car Company,300,221,2022,1
+338,Jaguar,XE,25.5,21.59,Automatic,Petrol,Car Company,200,147,2018,4
+339,BMW,850,116.9,8.1,Automatic,Petrol,Car Company,530,390,2021,10
+340,Jaguar,F-Type,86.224,12.0,Automatic,Petrol,Car Company,300,221,2022,1
+341,Porsche,Cayenne,78.9,30.0,Automatic,Petrol,Car Company,340,250,2018,8
+342,BMW,420,22.75,99.0,Automatic,Diesel,Car Company,184,135,2014,2
+343,Peugeot,508,26.5,54.0,Automatic,Petrol,Car Company,181,133,2019,7
+344,Mercedes-Benz,GLC 220,33.0,102.0,Automatic,Diesel,Car Company,163,120,2017,8
+345,Alfa Romeo,Giulia,27.995,40.122,Automatic,Diesel,Car Company,160,118,2020,7
+346,Audi,A5,31.9,70.551,Automatic,Petrol,Car Company,190,140,2018,6
+347,Volkswagen,Beetle,26.99,31.571,Automatic,Petrol,Car Company,220,162,2017,10
+348,BMW,420,35.75,66.0,Automatic,Petrol,Car Company,184,135,2019,4
+349,BMW,216,21.7,43.455,Automatic,Diesel,Car Company,116,85,2020,6
+350,Peugeot,308,17.49,120.442,Manual,Petrol,Car Company,205,151,2016,4
+351,BMW,X1,20.9,112.0,Manual,Diesel,Car Company,116,85,2018,11
+352,Porsche,Cayman,49.9,89.98,Automatic,Petrol,Car Company,275,202,2013,2
+353,Audi,RS5,54.995,67.36,Automatic,Petrol,Car Company,450,331,2017,12
+354,SEAT,Tarraco,29.99,60.505,Manual,Diesel,Car Company,150,110,2020,4
+355,Skoda,Karoq,26.3,30.0,Automatic,Petrol,Car Company,150,110,2018,11
+356,BMW,318,27.8,85.0,Automatic,Diesel,Car Company,150,110,2019,9
+357,BMW,X6 M,129.9,18.4,Automatic,Petrol,Car Company,624,459,2020,9
+358,Citroen,C5,11.99,90.331,Manual,Diesel,Car Company,150,110,2016,3
+359,Alfa Romeo,Stelvio,37.5,15.0,Automatic,Petrol,Car Company,200,147,2021,8
+360,Audi,A6 allroad,21.99,180.0,Automatic,Diesel,Car Company,313,230,2013,11
+361,Skoda,Superb,12.95,92.0,Automatic,Diesel,Car Company,140,103,2013,10
+362,BMW,420,24.99,103.083,Automatic,Diesel,Car Company,184,135,2015,2
